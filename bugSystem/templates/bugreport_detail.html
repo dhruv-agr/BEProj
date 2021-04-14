@@ -1,0 +1,52 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+<table>
+  <tr>
+    <th>
+      <h1 id = "submittedsummary">{{ bugreport.Summary }}</h1>
+    </th>
+  </tr>
+  <tr>
+    <td>
+        <h4>Status:</h4> {{ bugreport.Status}}
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <h4>Severity:</h4>{{ bugreport.Severity}}
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <h4>Project:</h4> {{bugreport.project_name}}
+    </td>
+  </tr>
+  <tr>
+    <td> 
+       <h4>Assignee:</h4> {{bugreport.Assignee}}
+    </td>
+  </tr>
+</table>
+  
+  
+  {%if perms.bugSystem.can_view_all_bugreports%}
+    <form action="" method="post">
+      {% csrf_token %}
+      <table>
+      {{ form.as_table }}
+      </table>
+      <input type="submit" class="btn btn-success" value="Submit">
+    </form>
+    <button type="button" class = "btn btn-primary" id = "predictassigneebutton"
+    style = "position: absolute; left: 500px; bottom: 110px;">Predict</button> 
+    <p id="predictedassignee" style = "position: absolute; left:610px;bottom:100px;"></p>
+  {%endif%}
+
+{% endblock %}
+
+{%block body%}
+  {{block.super}}
+  {%load static%}
+  <script src="{% static 'scripts/Assignee.js' %}"></script>
+{%endblock%}

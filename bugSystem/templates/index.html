@@ -1,0 +1,16 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h1>Bug Tracking System Home</h1>
+  <p>Welcome to Bug Tracking System</p>
+  <h2>Dynamic content</h2>
+  <p>The System has the following record counts:</p>
+  <ul>
+    <li><strong>Projects:</strong> {{ num_projects }}</li>
+    <li><strong>Bugs:</strong> {{ num_bugreports }}</li>
+    <li><strong>Open Bugs:</strong> {{ num_bugreports_open }}</li>
+    
+  </ul>
+
+  <p>You have visited this page {{ num_visits }} time{% if num_visits > 1 %}s{% endif %}.</p>
+{% endblock %}

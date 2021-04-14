@@ -1,0 +1,81 @@
+body{
+background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+}
+.sidebar {
+    margin-left: -12px;
+    padding: 0;
+    width: 160px;
+    background-color: #5bcf9f;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  /* Active/current link */
+  .sidebar a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  /* Links on mouse-over */
+  .sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+  
+  /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+  div.content {
+    margin-left: 0px;
+    padding: 0px 0px;
+    height: 1000px;
+  }
+  
+  /* On screens that are less than 700px wide, make the sidebar into a topbar */
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  }
+  
+  /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  }
+ table,th,td{ 
+     border: 2px solid black;
+     padding: 15px;
+ }
+ .predict{
+     position:absolute;
+     left:650px;
+     bottom:400px;
+ }
+ #predictedseverity{
+    position:absolute;
+    left:750px;
+    bottom:400px;
+ }
+ #id_summary{
+     height:100px;
+ }
+ #sub{
+     position:absolute;
+     left:542px;
+     bottom:110px;
+ }
+
+
+ 

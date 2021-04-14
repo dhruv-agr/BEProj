@@ -1,0 +1,10 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h1>Project Name:{{ project.name }}</h1>
+    <h2> Team Members:</h2> <br>
+    
+    {%for t in teamMember%}
+      <p style="font-size:20px">{{t.username}}</p>
+    {%endfor%}
+{% endblock %}

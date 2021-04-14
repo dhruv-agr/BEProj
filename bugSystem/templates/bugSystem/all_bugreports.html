@@ -1,0 +1,16 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h1>All Bugreports</h1>
+  {% if bugreport_list %}
+  <ul>
+    {% for bugreport in bugreport_list %}
+      <li>
+        <a href="{{bugreport.get_absolute_url}}">{{ bugreport.Summary }}</a> 
+      </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+    <p>There are no bugreports.</p>
+  {% endif %} 
+{% endblock %}

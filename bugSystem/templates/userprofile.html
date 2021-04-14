@@ -1,0 +1,14 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h1>Bug Tracking System </h1>
+  <p>Welcome to yout profile at Bug Tracking System</p>
+  
+    {% if user.is_authenticated %}
+        This is the profile page of user {{user.get_username}}
+    {% else %}
+    you are not logged in 
+    <a href="{% url 'login'%}">Login</a>
+    {% endif %}
+ 
+{% endblock %}

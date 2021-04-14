@@ -1,0 +1,37 @@
+body{
+  background-color: white;
+    text-align:center;
+background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+ }
+
+ h3{
+    font-size:35px;
+    font-family: 'Kiwi Maru', serif;
+ }
+
+input{
+    border-radius:5px;
+    height:50px;
+}
+
+ .login-form{
+    position: relative;
+    background-color: white;
+    height: 275px;
+    width: 270px;
+    left: 405px;
+    top: 90px;
+    border-radius: 10px;
+
+ }
+
+ #loginbutton{
+    margin-top:20px;
+    height: 40px;
+    background-color: #5bcf9f;
+    }
+#headinglogin{
+   font-family: 'Kiwi Maru', serif;
+   font-size: 40px;
+}
