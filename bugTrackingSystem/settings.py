@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY','=rhy9&$t7@2x8yi*n)t=@9xg&r&87@t
 # DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
-ALLOWED_HOSTS = ['https://bugtrackingsystembe.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['bugtrackingsystembe.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
