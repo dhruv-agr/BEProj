@@ -1,0 +1,1512 @@
+sbergman,FILEOPEN and FILESAVE causes General Error for .odt
+erack,FILESAVE: Saving to XLS format omits to save formula expressions of cells where the formula result is an error
+lionel,"""Is Null"" is invalid SQL"
+kohei,DATALOSS: Calc loses comments when (changed) file is saved
+erack,DATALOSS: Calc change data entered in certain cells
+serval2412,LibO crashes when in options dialog
+michael.stahl,ODF import - Unchecking 'same content on first page' footer option doesnt work
+serval2412,OSX - CRASH sigabrt when opening presentation in Impress containing video clips
+michael.stahl,FILESAVE: saving any file freezes LibO
+momonasmon,Cmd-V or Cmd-A inside toolbar-hosted edit fields paste into document instead (OS X only)
+dennisfrancis.in,Excessive duplicate accessible focused events for Calc input line [a11y]
+kohei,Background color for legend area hides the legend
+erack,Dsum gives different results in 4.2.0.1
+kohei,CRASH on sorting
+momonasmon,Database creation wizard halts in step 1
+michael.stahl,Crash when saving a particular document as DOCX
+serval2412,DOCX roundtrip causes crash on open
+mikekaganski,Crash when opening Libreoffice
+momonasmon,Calc crashes after adding text to a chart
+serval2412,LibreOffice crashes when Pattern area type is selected in Chart column
+michael.stahl,CRASH: Writer crashes scrolling down a document (a11y)
+momonasmon,MailMerge: Writer crashes using wizard 2nd time thru
+erack,Crash in: `anonymous namespace'::ScCaptionCreator::UpdateCaptionPos()
+erack,Crash when creating a chart
+Armin.Le.Grand,Crash when the anchor icon is dropped outside of the document ( steps comment 24 )
+michael.stahl,Crash on changing page type in document (editing) with many footnotes (steps in comment 14)
+michael.stahl,CRASH: LibreOffice crashes when closing a document
+michael.stahl,CRASH: Libreoffice crashes while deleting the header
+michael.stahl,CRASH: Libreoffice crashes while inserting a textbox in the header
+michael.stahl,CRASH: LibreOffice crashes while deleting the header containing an image
+michael.stahl,CRASH: Libreoffice crashes while inserting the header/footer in a document
+michael.stahl,MSO2003XML filter: FILEOPEN: assertion 'len >= 0' at sequence.cxx:664
+momonasmon,"CRASH Opening macro tab of properties dialog (images, frames) causes crash"
+michael.stahl,CRASH: Crash after undo operation (BigPtrArray::Index2Block(unsigned long)
+michael.stahl,CRASH: Writer crashes while closing after copy/pasting specific content
+erack,CRASH while undoing paste on a new sheet
+Katarina.Behrens,CRASH: LibreOffice crashes while clicking on Show Signatures button
+dennisfrancis.in,Crash in: SfxItemPool::IsInRange(unsigned short)
+michael.stahl,Crash after accepting all changes from compared documents
+serval2412,CRASH: LibreOffice crashes hovering over a calendar
+michael.stahl,FILEOPEN: crash sigsegv when opening file with invalid style:map
+serval2412,"Crash when editing code ""ActiveCell.String = "" in the built-in editor ""BASIC"""
+sbergman,LO60b1: Impress and Draw don't run on macOS (gpg4libre)
+michael.stahl,Menu/LibreOffice/Help/LibreOffice Help/[Content] -> Crash
+michael.stahl,CRASH: Inserting link to .docx file in section
+dennisfrancis.in,EDITING: CRASH (Reason=EXCEPTION_ACCESS_VIOLATION_READ) when paste special contents from particular source.ods as GDI metafile
+markus.mohrhard,CRASH: Read-only file crashes executing the macro (steps in comment 3)
+momonasmon,Libreoffice crash on exit when sidebar is enabled  and attached (steps in comment 4)
+mikekaganski,Crash when dragging table with many rows to a table with less rows
+serval2412,Crash when I open a specific .ODT file with table
+erack,Crash when asking subtotals on 2 groups with pre-sort area checked
+michael.stahl,CRASH when adding paragraph's in a cell of a complex table structure
+mikekaganski,Crash (fatal error) when attempting a mail merge print ( only the first time the connection is done)
+Armin.Le.Grand,Crash when showing Comment
+Armin.Le.Grand,CRASH: LibreOffice crashes being closed with content in the clipboard
+Armin.Le.Grand,Crash inserting Fontwork
+Katarina.Behrens,Print Preview crashes on signed document
+Armin.Le.Grand,CRASH: LibreOffice crashes if the sidebar is empty
+dennisfrancis.in,EDITING Crashes on Undo after Cut conditional formatting data
+Armin.Le.Grand,Draw/Impress crashes upon pasting a table from Writer (not on Windows)
+serval2412,Launching Character dialog from any module crashes ( with CJK and CTL disabled )
+Armin.Le.Grand,CRASH: Draw just closes if to try select table in file
+serval2412,CRASH: Writer's master document crashed when insert pdf file
+Armin.Le.Grand,CRASH: Writer crashes inserting a section
+mikekaganski,CRASH: Writer crashes in print preview
+mikekaganski,"Crash when two Fields are empty, on same line and inside a table and hide paragraphs of empty fields active"
+mikekaganski,Crash: Closing LibreOffice in print preview mode
+Armin.Le.Grand,REPORTBUILDER: Report label display string lost when saved and the actual string 'LABEL' used when the report is run next.
+Armin.Le.Grand,crash when inserting a measure line
+Armin.Le.Grand,"Thick black borders shown on sheet upon opening, cell selection not shown and Writer selection only shows outline"
+serval2412,branch crashes in bibliography database -> Data -> autofilter
+Armin.Le.Grand,"LibO crashes each time I try to add an object (button, check box, etc.) in a Dialog form"
+mikekaganski,"Crash restarting LibreOffice after applying an option (no crash if going via ""OK"")"
+sbergman,LO62b1: on macOS local help opens an empty page in default browser
+Armin.Le.Grand,button flashing - mouse wheel zooming breaks
+erack,EDITING Calc crashes when manipulating Negative numbers in red on Currency ( not gtk3 )
+michael.stahl,"Hiding characters will crash.  Crash in: SwAttrIter::CtorInitAttrIter(SwTextNode &,SwScriptInfo &,SwTextFrame const *)"
+michael.stahl,Writer crashes after undoing + redoing ToC insertion in middle of word
+mikekaganski,"crash: use of ""com.sun.star.ui.dialogs.FolderPicker"" crashes"
+michael.stahl,Crash if switch from user outline numbering to chapter numbering with same paragraph style
+serge.krot,CRASH: cutting and undoing a sheet with external links
+Armin.Le.Grand,"Font changed when typing into cell, in edit mode, with redline"
+s.mehrbrodt,crash: on open basic editor to edit macros
+mikekaganski,"Crash in: ScColumn::MergeBlockFrame(SvxBoxItem *,SvxBoxInfoItem *,ScLineFlags &,long,long,bool,short)"
+s.mehrbrodt,Crash and document recovery on option change of view -> icon style
+s.mehrbrodt,CRASH: Closing LibreOffice after deleting a chart
+serval2412,Crash when linking an odp file
+michael.stahl,For every repeated paste the page count (incl. content) doubles
+vasily.melenchuk,"When saving an encrypted document, unchecking 'Save with password' has no effect, encryption is kept"
+sbergman,Binary URP bridge disposed during call to ServiceManager.createInstanceWithContext
+michael.stahl,Edited forms created by older version of LO cannot be opened any more ( steps in comment 11)
+jluth,FORMATTING: Fit to Frame for text boxes is broken
+jluth,Writer: Incorrect numbering when cells are merged in the table
+markus.mohrhard,"EDITING: Calculate formula: Delete or Backspace to empty a refecenced cell, do not result in updating"
+jluth,Section Breaks in .DOCX not handled similarly between LibO and Word
+sbergman,Presenter console: Don't see the active slide after launch
+kohei,Calc crashes when modifying a named range
+kohei,FILESAVE: CONDITIONAL FORMATTING is lost after deleting sheet and saving to ODS.
+erack,Calc: State of AutoFilter lost after sorting
+markus.mohrhard,FORMATTING: Conditional formatting not copied
+jluth,PDF export missing ToC page numbers
+serval2412,MAILMERGE: Outgoing mailserver (set in Tools > Options > Writer > Mail merge Email) not found
+sbergman,"macOS -- LibreOffice crash within 40s after opening app when online update automatically enabled, or with check from the Extension manager -- https certificate issues"
+erack,FILEOPEN: CSV cannot handle field using embedded tab and line breaks altogether
+jluth,EDITING: Problems changing focus to inside frame
+kohei,Other: Recalculate does not always work if formula link to other sheets
+erack,Insertion of a sheet changes values in other sheets
+markus.mohrhard,Changes in libcurl break check for update (at 5.0.0) and error reporting (at 5.2.0) on Windows XP sp3 and Windows XP sp2 (64-bit) installs
+serval2412,Names of new hatch patterns in 7.0 not localizable
+jluth,"ODT containing multi-page table with table setting ""Keep with next paragraph"" is pushed to next page"
+michael.stahl,mirrored page layout is not actually mirrored
+lionel,Database Creation Wizard - Mac Addressbook creation failure
+michael.stahl,"LO 4.3.0 for Windows crashes on CPUs that do not support SSE2: Application Error soffice.bin, version 4.3.0.4, module sal3.dll, version 4.3.0.4, address 0x000268d5."
+lionel,"embedded hsqldb; in view, computed row without alias makes whole file unusable"
+michael.stahl,TABLES: Writer corrupts large tables
+erack,"EDITING: Calculate formula: DEl or BS to empty a cell with a formula, does not result in updating a formula referencing that cell"
+michael.stahl,FILESAVE: Libreoffice Writer 4.0 crashing on saving file
+markus.mohrhard,EDITING Data > Validity broken (for list entries at least)
+michael.stahl,"ODF import: style:page-number ""auto"" sets Page Number offset to 0"
+jluth,EDITING TABLE: using comments on cells in WRITER is incompatible with formulas
+nemeth,Libre Logo: LibreOffice crashes opening a window error or a print windows
+markus.mohrhard,Chart doesn't show correct values on X-axis
+michael.stahl,"Properties ""Create from"" of index/table are changed on save"
+lionel,"CRASH - In a form, try to insert when a record is selected in ""Datasource as Table"" view causes LO to abort"
+jluth,FILESAVE: Image from first page appears on all pages of document after saving file on LO
+serval2412,FILEOPEN: Crash on opening wikipedia ODT Book
+michael.stahl,debug abort when creating a report
+serval2412,CRASH when inserting an input field
+erack,Crash: data text to columns
+michael.stahl,"segfault whle closing program after ""Autocorrect Options..."""
+erack,Calc crashes when applying subtotals
+sbergman,Open/Create a report in Base causes LO to freeze (Windows)
+michael.stahl,WRITER: Crash on paste with  Zoom - Page width
+erack,Unexpectedly quit when use Data->Sort  (crash)
+sbergman,Crash when close a LibODev if enable a While Typing/Autocorrect
+erack,Fatal error and crash when attempt to delete a row
+serval2412,"converting an object, assertion in {anonymous}::implLookupClient (gtk2 only)"
+serval2412,Crash if add row in control grid and select row
+dennisfrancis.in,CALC keeps running on exit after COPYing 3+ whole rows to clipboard with OPENGL enabled
+michael.stahl,Bad allocation or crash on cut text in attached ODT (with Non-Printing Characters hidden) (LibreOffice not maximized?)
+serval2412,FIREBIRD: MIGRATION: Migration assistant does not run after user answers yes to prompt to begin
+jluth,This version is unable to retrieve data from a webpage (link external data)
+mikekaganski,LibreOffice crashes when opening a document in print preview
+erack,Calc crashes when viewing details of two Statistical functions in Function Wizard
+michael.stahl,Crash in: swlo.dll ( steps in comment 12)
+dennisfrancis.in,Wrong calculation after copy/paste of a formula
+vasily.melenchuk,"Unwanted ""Text box"" movement after Undo'ing last Move"
+michael.stahl,Backspace has only effect on one character after rejecting all changes
+erack,"Calc - AutoCalculate malfunction, always F9 (ReCalculate) necessary"
+michael.stahl,Frame borders not visible with text direction set vertical
+jluth,Clear Direct Formatting damages the document's styles
+erack,FORMATTING fraction displayed and treated as dates
+michael.stahl,FILEOPEN: Crash when trying to open attachment fdo#58277
+jluth,EDITING - Rearranging Slides with Same Title Results in Duplicate Slides (and loss of slides)
+markus.mohrhard,Calc chart removeByName crash
+erack,Lorem Ipsum extension crashes LibreOffice
+erack,Time values in csv import are misinterpreted
+mikekaganski,Writer shows only first 3 pages of .docx file
+jluth,Excel VBA: ActiveDocument is not tracking currently selected document
+michael.stahl,paste table in footnote crashes
+lionel,flat text database (e.g. csv) with header lose one row at each refresh
+jluth,FILEOPEN: Incorrect page height import on a .doc file
+kohei,COUNTIF function doesn't match empty formula cell results
+jluth,ODF import: page number is 0 (zero) instead of 1 (importing document written by legacy OOo versions < 3.3)
+kohei,Countif and Countifs Not Counting Second Set of Added Data
+kohei,Validation (using cell range) is corrupted with column insert/remove
+erack,"EDITING: Analysis of Variance (ANOVA): Total DEVSQ returns Err:508, while direct DEVSQ formula returns correct result"
+jluth,FILEOPEN: wrong image and shapes position in .doc
+michael.stahl,Selecting table when comment present on page crashes Writer
+lionel,VIEWING: subform link to master fields never updated (subforms always displays data of *first* master row)
+michael.stahl,"bitmap list in Area dialog must not have pre-selection, when called from a shape with background image"
+erack,Editing : references to different sheet get removed on dragging cell
+markus.mohrhard,EDITING: Named range changes when deleting cells or lines in another sheet
+jluth,FILEOPEN: DOCX - page size/dimensions/format ignored
+michael.stahl,"REPORT-BUILDER: Charts aren't shown, leave blank place on the page"
+erack,"Sorting: setting ""Range contains column labels"" is forgotten if any column Label contains a numeric value or is empty (comment 38)"
+markus.mohrhard,FILEOPEN: hang when try to open a specific XLSX
+serval2412,AutoFormat: Crash when using an existing name for a new preset
+erack,Segfault getting accessible object attributes in Calc cell with formula immediately upon launch
+erack,Undo after Control-D Fill doesn't broadcast deleted (undo-inserted) cells for calculation
+jluth,Fileopen: docx with section breaks not displaying correctly text in table
+mikekaganski,FILEOPEN: DOCX - File no longer opens from 5.0 (SAXParseException  line 42)
+jluth,XLSX scenario should not be automatically loaded
+michael.stahl,"LibreOffice uses wrong attribute for feature ""shrink-to-fit"""
+markus.mohrhard,array checkbox crashes calc in function wizzard
+markus.mohrhard,Spreadsheet sort hangs
+erack,"EDITING: Operations with links to empty cells in other files, gives #VALUE as result."
+jluth,Mailmerge e-mail does not send all merged documents
+varga.balazs3,FILEOPEN: DOCX: Chart bars not imported
+jluth,"track changes - show changes is always marked as enabled, even after disabling"
+jluth,FILEOPEN: DOC: Table incorrectly splitted
+jluth,FILEOPEN DOCX: File appearing to be empty
+erack,Conditional Format not updated on change value in a cell it depends on by formula
+jluth,"KMFL characters are not ""swallowed"" after completing the complex letter"
+vasily.melenchuk,FILESAVE: hyperlink text disappears after opening&saving specific DOCX (with some index/TOC before the link)
+markus.mohrhard,FILESAVE DOCX: One column chart is exported instead of two
+dennisfrancis.in,Cells with formula don't get deleted after undo
+michael.stahl,LibreOffice freezes while changing the template of many slides ( gtk/gtk3 )
+lionel,Some forms stall with 100% on open - It's a date field problem
+erack,Formula cells not recalculated after column was inserted and in a shifted column a formula cell is edited/added when the next column is empty (EDITING)
+erack,"UI Autofilter on date cells: Filter result doesn't correspond to user input, user input is modified automatically"
+markus.mohrhard,Crash: Merge Column on Data Provider window
+michael.stahl,RTF import: Incorrect vertical position of lines
+dennisfrancis.in,FORMATTING: Copying date formats in cells changes date for all cells in column
+serval2412,LO Base Report Builder crashes on modifying Page Header Horizontal or Vertical alignment
+Armin.Le.Grand,VIEWING: Rotated Text in a Cell gets invisible (steps in comment 6 )
+nemeth,table content from .DOCX shown as text in Writer
+michael.stahl,Crash when closing the document after a specific undo redo operation (Paste) due to inserted fly anchored at end of last paragraph in body
+michael.stahl,CRASH after undoing a paste operation
+mikekaganski,Hang when copying a sheet to a new document
+erack,error displaying some integer values if number of decimals is forced to more than 15
+michael.stahl,DOCX track changes: Specific document makes Writer crash
+Armin.Le.Grand,Replacement of SVGFilter by SVGIO seems to break extensions (e.g. TeXMaths)
+s.mehrbrodt,eps images systematically get rasterized to bitmap
+momonasmon,CALC: toggle INSERT/OVERWRITE is broken since 6.1
+jluth,FILEOPEN: DOCX from TextMaker freezes Writer due to a style with a blank name
+erack,calculation of MINUTE() wrong in LibreOffice 6.1
+jluth,FILESAVE: ODT: paragraph spacing not preserved after RT
+markus.mohrhard,calc crashes on opening this specific file
+markus.mohrhard,Crash in: chart::EquidistantTickIter::initIter(long)
+Armin.Le.Grand,REPORTBUILDER: Unable to add fields to report using the ADD FIELDS dialog
+serge.krot,"PRINTING, PDF Export: Problem with selected cells which cross pages"
+erack,Assert when inserting a chart as OLE object
+Armin.Le.Grand,No page color after selecting and applying one - MacOS
+Katarina.Behrens,kde5: Sporadic crash when right-clicking items in toolbar
+mikekaganski,Freezes when I open a ODT document
+Katarina.Behrens,KDE5: Only half of the toolbar is displayed if it's undocked
+Katarina.Behrens,KDE5: Undocked toolbars are displayed on top of dialogs/slideshow
+michael.stahl,"Insert OLE Object from file causes crash, if Experimental features are enabled"
+Armin.Le.Grand,Contour editor crashes
+michael.stahl,Table doesn't show up after undo (only after save & reload)
+erack,Format Numbers dialog produces wrong format codes when un-/checking Red or Thousands; only gtk3
+serval2412,Crash after trying to switch to Notebookbar (GTK3)
+michael.stahl,"DATA LOSS: Writer AutoFormat ""Delete spaces and tabs at end and start of line"" dropping characters from text with built-in paragraph styles"
+serval2412,Crash when pasting a sheet containing a 3D object
+dennisfrancis.in,"Editing: Err:522 on copying of rows with ""Calc: threaded"" enabled ( steps in comment 6 )"
+Armin.Le.Grand,Edit Contour of Image Wrap doesn't appear on Exported PDF
+serge.krot,LO shouldn't crash when opening DOCX (even if MSO cannot open or warns about unreadable content)
+Katarina.Behrens,kde5: unfinished DnD of a sheet erases all contents of the sheet
+michael.stahl,Applying autocorrect to text with URLs causes Writer to hang
+mikekaganski,CRASH: Renaming template
+michael.stahl,COMPARE DOCUMENTS: Crash in swlo!SwRedlineData::SetSeqNo
+dennisfrancis.in,Copying a large sheet is very slow
+vasily.melenchuk,Crash in: rtl_uString_acquire: frame style undo redo
+michael.stahl,Crash when removing entry in bullet list (change tracking involved)
+sbergman,Mouse wheel no longer works
+michael.stahl,After deleting some text the LibreOffice Writer crash
+serval2412,"crash on modify a frame style, which has previously got writing-mode bt-lr"
+s.mehrbrodt,"Presenter View of Impress 6.3.x doesn't remember slide after Slides and Close, as it used to, but returns to 1 during presentation"
+serval2412,Crash when trying to delete unused User Field
+s.mehrbrodt,print preview with writer crash LO
+sbergman,Restart in safe mode: Open containig folder doesn't work and Show user profile gets a error message
+dennisfrancis.in,Crash when sort by column of Excel 97-2003 file with specific data
+michael.stahl,Cannot open 819-pages ODT
+mikekaganski,CRASH: importing file
+jluth,Writer crashes when Alt+Arrow Up keys are pressed within a table row spanning two pages
+s.mehrbrodt,Impress crashes on broken hyperlink click
+sbergman,File dialogs in Mac OS are in German
+s.mehrbrodt,FILESAVE DOCX Signature line export creates invalid document
+Armin.Le.Grand,FILEOPEN: DOCX: picture does not display doc saved by MSWord
+mikekaganski,Crash saving template file (see comment 4)
+serval2412,Find Previous with direction columns crashes in specific condition
+heiko.tietze,See log link is gone in new About Dialog 7.0
+dennisfrancis.in,"Crash: ""vector::_M_fill_insert"" with large sumifs"
+serval2412,Crash when selecting part of a comment
+michael.stahl,Crash in: BigPtrArray::Index2Block(unsigned __int64) anchor to paragraph
+jluth,LO Writer form controls tab order is broken
+mikekaganski,Master: Crash when pasting from external program
+momonasmon,FILEOPEN: User defined number format not applied to fields inside header or footer
+michael.stahl,CRASH: after clicking on a drop-down form
+vasily.melenchuk,CRASH: cutting shapes
+dennisfrancis.in,Error when saving bigger odt/ods with password
+serge.krot,XLSX file saved in LibreOffice 7 is corrupted and it is later not possible to open in Excel
+jluth,"Footnotes always uses numbering by chapter for position ""End of document"""
+jluth,FORMATTING: Saving .doc to .docx changes placement of text inside columns.
+markus.mohrhard,": Sort lists in Calc not shown and adding a second custom defined list, deletes a privious defined custom list"
+lionel,EDITING: Values in correlated subquery were not shown in queries.
+dennisfrancis.in,EDITING: Results filled in wrong cells after Text to Columns
+erack,CRASH when Consolidate
+kohei,FILEOPEN: pictures in .xls spreadsheets no longer displayed
+kohei,ROW() value is not updated if row is inserted after
+jluth,FILESAVE: double lined cell borders get lost due after saving as ODS and reopen
+jluth,FILEOPEN DOCX layout messed up with wrong number of pages (continuous break changed to page break)
+lionel,cell value in table grid a date/time control incorrectly displayed
+nemeth,"Fileopen DOCX: Text in table different width in Writer (multiple lines) and Word (single line) for Microsoft fonts - 0,1cm difference"
+michael.stahl,FORMATTING: Numbering list in DOCX does not continue previous numbering
+jluth,[FORMATTING] spacing above and below a table incorrect in specific .doc-file
+michael.stahl,FILEOPEN: Writer crashes on loading a particular .doc document in Windows
+markus.mohrhard,Manage Conditional Formatting is not able to edit a condition
+erack,502 err in master but not in LO 5.3.2.1 to 5.4.4
+jluth,Libre office Swriter crashes when opening Microsot word doc in 97-2003 doc format
+jluth,FILESAVE: DOCX: file cannot be opened in MSO / numbering lost in LO
+Armin.Le.Grand,Lines created in Draw are not visible when printed (Windows-only)
+michael.stahl,Crash in: sw::GetParaPropsNode
+kohei,VIEWING:  Cells scrolled in show contents of other cells.
+dennisfrancis.in,FILESAVE: Automatic font color of text not persisted if cell has line break and non-automatic font color
+dennisfrancis.in,Editing circular reference causes #VALUE! error
+michael.stahl,Adjusting column or row sizes in a Writer table causes artifact lines
+raykowj,"New UNO commands for ""Zoom in"" and ""Zoom out"" of document canvas, to support keyboard zoom  (comment 21)"
+jluth,FILESAVE: Saving File in Temporary Folder - usability issue
+kohei,PRINTING: after leaving Print Page Preview with <esc> particular documents will CRASH
+markus.mohrhard,"EDITING: CRASH when Merge Cells with ""move contents"" and first of merged Cells is involved in calculation"
+lionel,"[DATALOSS] when basic, but not dialog, library loaded, save ""forgets"" to save the dialogs"
+erack,CRASH: LibO crashes when paste a formula from other languages
+markus.mohrhard,LibO crash when creating chart with no cells selected
+serval2412,CRASH closing IDE
+markus.mohrhard,"FILEOPEN 3.5 document: conditional formatting of type ""Formula is"" not  recognized correctly, lost after saved"
+michael.stahl,Writer WW8 EXPORT: LibreOffice Crashes saving .doc file with invisible pictures
+markus.mohrhard,EDITING: CONDITIONAL FORMATTING not included in copy-paste cell
+jluth,A Scripting Framework error occurred while running the UNKNOWN script UNKNOWN.
+kohei,CRASH: Calc craches when sorting
+kohei,function does not work Edit> Fill> Series> AutoFill
+kohei,out_of_range_exception when inserting/deleting rows with absolute reference
+kohei,copy cells from calc and paste in writer makes libreoffice crashed in mdds
+kohei,FILESAVE: ods files saved with different Asian font family in the same cell will brake the archive
+momonasmon,LODev 4.4  Calc crashes when you click on fx button
+michael.stahl,CRASH by segmentation fault when trying to open the contextual menu of a picture
+kohei,Sorting a column of linked formula gives Error 523
+Armin.Le.Grand,Freeze with simple animation Impress
+erack,Crash/hang after deleting column in XLSX or deleting and saving
+erack,FILEOPEN Calc crashes on opening xlsx document
+michael.stahl,crash after switching on the bibliography 'number entries' option (steps in comment 8)
+lionel,Data Records Not Saved to External Firebird Database File
+erack,CRASH: When copying/pasting a Calc Sheet (multi_type_vector::get_type#1613: block position not found!) (steps in comment 8)
+serval2412,"After save a DOCX file, it gives a error when it try to be open (avoid duplicate themeColor)"
+michael.stahl,Crash specific undo/redo dance
+markus.mohrhard,findAll doesn't work
+mikekaganski,Drawing styles lose parent-child relationship on FILESAVE FILEOPEN
+kohei,FILEOPEN: Selected file type is not honored for HTML files
+sbergman,CRASH when browse to HD root directory in FILEOPEN Template dialog
+erack,FORMATTING: ISO 8601 date detection overrides locale's date order if '-' is the date separator
+markus.mohrhard,EDITING: CRASH when undo sort with chart
+markus.mohrhard,EDITING: Sort rows for will sort columns
+markus.mohrhard,EDITING: Cell used in a formula is considered non-empty
+kohei,Too slow to import file with lots of cells with multi-line contents.
+markus.mohrhard,CRASH FILEOPEN particular .ods with Conditional Formatting
+markus.mohrhard,FILTER: Autofilter incorrect if filtered cells are referenced in formulas
+kohei,"PIVOTTABLE  from Datasource (Base, Query) has no value (regression)"
+erack,FILEOPEN Calc text import dialog preview with non-default separators initializes too long
+sbergman,"Cannot Edit ""My Documents"" Under Tools > Options"
+sbergman,"UI: ""Tools - Bibliography Database"" does nothing"
+markus.mohrhard,CRASH when edit CONDITIONAL FORMATTING
+markus.mohrhard,"FILEOPEN particular .xlsx: ""IF"" condition not calculated"
+sbergman,"Extension upgrade fails with error ""Cannot create folder"""
+markus.mohrhard,"Conditional formatting lost after paste special of text, numbers and dates."
+Armin.Le.Grand,"EDITING: PHOTO ALBUM, crash Insert slides a large number of photos"
+sbergman,CreateUnoDialog doesn't
+s.mehrbrodt,FILEOPEN: DOCX Import - Signature line doesn't show digital signature
+lionel,Queries based on linked tables not editable
+jluth,FILESAVE:cross-reference heading field not visible in doc format
+erack,EDITING sigma icon (sum function) operating on selected range
+michael.stahl,Certain graphics lost in PDF export if lossless compression used
+markus.mohrhard,Calc crashes when inserting a column
+lionel,Embedded Firebird : content of a VARCHAR text field is truncated to 17 characters
+kohei,FILEOPEN: Calc fails to import shared formulas from BIFF5 (Excel 5.0/95)
+bakos.attilakaroly,[FILEOPEN]: DOCX import filter loses the frame’s (object’s) background bitmap
+serval2412,Slide Transition: Sound list box does not include all sounds when is in non-English UI
+sbergman,Other: Send as --email error
+michael.stahl,"UI: Line Numbering ""Format"" dropdown list is blank"
+markus.mohrhard,Copying & paste special / Paintbrush of conditional formatting applies to wrong cell range
+Armin.Le.Grand,Insertion of DXF image fail to produce a correct image
+lionel,LO Base grid – change DataField name form reload on button pressed event doesn't refresh data
+dennisfrancis.in,[UI] Search filter in Autofilter breaks searching by typing in the list: OK button is blocked
+michael.stahl,Crash on handling frame in Navigator
+momonasmon,Submenus of MenuBarManager based context menus don't work (OS X native menus only)
+dennisfrancis.in,Calc crashes on filtering with select checkbox with space bar
+markus.mohrhard,LO Calc very poor performance when saving to ODS or CSV on large spreadsheet
+s.mehrbrodt,"Find Toolbar does not display ""Search key not found"""
+michael.stahl,"Assertion ""(!mpShapeMap || mpShapeMap->empty())"" failed when doing a print preview"
+vasily.melenchuk,FILEOPEN / FILESAVE: Cross-reference (with white space in name) broken after saving as DOCX
+momonasmon,Crash when just displaying LibreLogo and click >> (accessibility/gtk/gtk3)
+jluth,FILEOPEN DOC: File is opening very slow
+erack,"5.4.0.0.alpha0+, built after April 24, doesn't start on Windows XP and Vista"
+michael.stahl,Sidebar extension crashes Writer when inserting Chart
+serval2412,"Firefox themes cannot be installed, it finds nothing"
+serval2412,Delete a sheet in a calc document and LO crashes.
+Armin.Le.Grand,measure lines (dimension line) have no value
+michael.stahl,"LibreOffice no longer providing formatting information to Orca when ""Orca MOdifier Key + f"" is used"
+mikekaganski,LibreOffice hangs when in Calc copying formula while in edit mode <F2> then leaving field with escape
+zolnaitamas2000,Form fields are displayed twice (double)
+m.weghorn,Presenter console has gone missing recent master
+michael.stahl,CRASH: cutting content of document
+erack,Style 'Result' and 'Result2' have been removed; Subtotals do not get automatic formatting any longer
+michael.stahl,layout change with paragraph line spacing in table cells caused by fix for bug 125300
+zolnaitamas2000,"pptx import: blue background, save/reopen as .odp changes to gray"
+jluth,FORMATTING: Tables Alignment lost when exporting to DOC and loading in MS Word
+kohei,Print range is missing when sheet is copied
+jluth,DOC TabOverMargin doesn't work for Left or Center margins
+kohei,Auto Filter disables incremental autofill function
+markus.mohrhard,EDITING: Undo not available for Merge Cells in Calc
+mikekaganski,Unable to change name of a custom style
+mikekaganski,MathType OLE formulas show (and print) very incorrect
+kohei,EDITING Find/Replace modifies formula in R1C1 syntax to invalid lowercase
+erack,EDITING [IT]: Italian Date containing martedì not parsed as Date
+nemeth,EDITING: Numbering in numbered list doesn't show when affected by tracked changes
+erack,FILESAVE: Crashes while saving a file
+kohei,": Find, replace, regular expression bug"
+markus.mohrhard,[EDITING] selecting cells with Shift-Arrow with filtered rows/columns does not skip hidden rows/columns
+jluth,FILESAVE: DOCX - Tab stops added to lines that didnt already have them
+sbergman,String with name of places in File open dialog show spaces as %20 etc
+jluth,FILEOPEN particular .docx with destroyed TABLE structure (start at comment7)
+michael.stahl,FILEOPEN: Opening powerpoint ODF presentation results very small text
+zolnaitamas2000,Search Bar history is always empty
+zolnaitamas2000,FILESAVE: FORMCONTROLS: Form controls not saved in .docx
+lionel,"SIGSEGV:  ODBC to PostgreSQL, renaming column in SELECT list"
+sbergman,Hidden MediaWiki options page
+sbergman,: FILE SAVE AS:  Can not edit read-only file after SAVE AS
+jluth,FILEOPEN: Docx import results  in partially incorrect paragraph style (adds italics style to font property)
+serval2412,EDITING: Clicking on Drawing after editing a Group inside a Group causes Crash
+erack,Calc single cell filling (Ctrl+D) does not change data at input line
+sbergman,FILEOPEN: LO cannot open more than one file at a time from Mac Finder
+kohei,FILEOPEN: specific XLS (Office 2003) file crashes LibO 3.6
+jluth,FILESAVE:  Footnotes do not remain at end of document in .doc and .docx formats
+markus.mohrhard,"REGRESSION Crash when subtotals calculated for ""none"" with cell selected outside subtotal range"
+markus.mohrhard,CRASH when FILESAVE particular .ods after deletion of rows
+jluth,: horizontal/vertical flip of inserted picture is not persisted
+michael.stahl,undo insertion of table row (or table column) crashes in A11y code
+jluth,FILEOPEN - A particular docx has a black background where text should be
+michael.stahl,Textbox properties export to PPT bad (Impress)
+markus.mohrhard,"CONDITIONAL FORMATTING: Loss of configuration in ""Manage"""
+markus.mohrhard,"UI Conditional Formatting > Manage: all conditions shown fully, last with missing bottom half"
+kohei,Copy and paste chart fails if the source sheet does not have the default name
+markus.mohrhard,"FILESAVE: FILEOPEN: save ods in lo3, open/save in lo4 -> conditional formatting broken"
+michael.stahl,EDITING: Impossible to fill text into Fields - Functions - Placeholder - text
+markus.mohrhard,Crash when adding a comment on a cell
+kohei,LibreOffice crash when opening a non-ascii named file in XML Source
+dennisfrancis.in,"Data labels overlap in pie chart for small pies when ""best fit"" placement option is set."
+erack,EDITING: 'Autofill - Date - Months' wrong if day of month exceeds max. days of month
+jluth,FILEOPEN: sometime import controls in xlsm document don't fire macros
+nemeth,"FILEOPEN: Table in docx is not rendered correctly due ""repeat heading"" (bad handling of isolated tblHeader row settings)"
+kohei,autosniffing of ODB content type broken
+nemeth,Add new menu options to move rows/columns in tables without overwriting the original cells
+michael.stahl,EDITING: automatic insertion of non-breaking space before specific punctuation marks in French texts broken
+michael.stahl,REPORTBUILDER: Crash by following case 2 from fdo#61725 + click cancel
+markus.mohrhard,FILEOPEN: CALC doesn't import scaling factor set on xlsx files
+jluth,Text changing (with animation) not saved without exit editing mode / text box or go to Slide Show
+markus.mohrhard,XLS and XLSX - 2D pie ends up as 3D
+kohei,Manage Names dialog won't show the ranges of named ranges when dialog is shown
+jluth,Writer doesn't remember non numeric zoom factors in .doc files
+nemeth,Diacritics problem with Graphite fonts
+mikekaganski,FILEOPEN: Documents with embedded fonts take too long to open
+lionel,REPORTBUILDER: Wrong order by-clause generated by reportbuilder
+michael.stahl,footer affected by header left/right sharing in UI and ODF/DOCX formats
+serval2412,"EDITING: Embedded Firebird - Tables with Date-fields let LO crash, when query executed in Tools → SQL"
+zolnaitamas2000,"Accessible caret-moved events missing when editing cells if ""freeze"" is enabled [a11y]"
+zolnaitamas2000,ACCESSIBILITY: new UI widget layout start center incorrect F6 and F10 key traversal [a11y]
+lionel,EDITING: Refresh a table does not work when a form is open simultaneously.
+erack,COUNTIF with criterium <>number does not count empty cells.
+michael.stahl,EDITING Can't edit OLE object (MS Visio) in a DOC document
+erack,segfault opening a particular file
+erack,FILESAVE: CSV export problem with formatted text cells
+kohei,Customize dialog crashes on exit
+kohei,moving named range does not move name reference
+kohei,FILESAVE: Overlining on partial content of cell lost
+lionel,UI: Formatting of Checkbox in a Form alternated - 3D became flat and flat became 3D
+kohei,Array formula bug SUM(Len(A2:A200)) adds empty cells
+jluth,VIEWING: Writer inserts an unwanted page break before a text frame in DOCX
+varga.balazs3,FILEOPEN: Imported .docx charts missing legend with default name
+momonasmon,Hyperlink dialog toward an internal target shows as !!br0ken!!
+michael.stahl,assertion from ImplDbgTestSolarMutex
+jluth,FORMATTING: Section in a header ignores manual column breaks
+jluth,FILEOPEN: DOCX : 'Page Break - Column Break' (in 1 column per page) not correctly imported
+serval2412,UI: LightProof: Italian translation too long in options
+erack,Formulas with external references incorrectly updated when sorted
+kohei,Pasting special with subtract operation not working if target cell is empty.
+kohei,Other: dbsum wrong when entering data using Alt+Enter
+kohei,Updating range names messes up formula.
+kohei,EDITING: Paste special with Skip empty cells freezes
+jluth,"FILEOPEN: DOCX - incorrect placement of image inside a cell when position option ""Layout in table cell"" is set"
+kohei,"Loses formula reference after cut, paste and undo"
+kohei,EDITING: long wait on Undo
+vasily.melenchuk,FILEOPEN: DOCX - Incorrect space between bullet and first line text due to wrong tab stop at value
+tundeth,FILESAVE: When saving a DOCX that has a picture with a hyperlink on it - the hyperlink is lost
+kohei,"UI: Filter with dates doesn't populate right, duplicate entries with different format."
+kohei,UI: Duplicate Shortcut 'S' in Data menu
+serval2412,EDITING SIGABRT: ... past-the-end iterator
+s.mehrbrodt,FILESAVE: Tab positions not being retained in PPT and being lost in PPTX
+zolnaitamas2000,"Border down and right don't have good view, but good export in PDF"
+jluth,FILEOPEN: Incorrect spacing between numbers and lines when opening a .doc file
+erack,"EDITING: IFNA() IFERROR() have an strange behaviour inside SUMPRODUCT, fine inside an array SUM()"
+zolnaitamas2000,FILEOPEN: .doc has large black rectangles between paragraphs
+nemeth,VIEWING EDITING: spellchecker works wrong if there are Cyrillic symbols in the path to Libre folder
+markus.mohrhard,Demo2 hang ...
+erack,Setting Default Western Language to None doesn't stick
+serval2412,"Writer export to Mediawiki fail to recognize "" underline"""
+michael.stahl,FORMATTING: numbering scheme of headings
+jluth,EDITING: Compress image removes flip settings
+jluth,FILEOPEN: DOCX Strict - Numbering indentation not imported correctly
+michael.stahl,FILEOPEN: MSO ODT - Left page header has duplicate image in it
+jluth,FILEOPEN: DOCX - Cell top border is visible when <w:insideH> node is present
+lionel,Commit of unchanged date field corrupts the field
+sbergman,Form Designer: assertion raised at Reference.h:402 or segfault
+vasily.melenchuk,FILEOPEN: NUMBERING: text paragraph indentation/tab stops in .DOCX displayed incorrectly with tab
+momonasmon,TOOLBAR: Drop down buttons loose drop down feature when customizing presentation toolbar
+serval2412,Mod operator does not deal with decimals as described in help
+kohei,Wrong references after columns are deleted - when the range of delete columns partially covers the range of the cells the formula refers to
+momonasmon,FILEOPEN: docx file with doc extension triggers the repair dialog
+erack,no broadcast after text to columns to convert text to numbers
+s.mehrbrodt,SIDEBAR: Left and right alignment buttons need to be swapped in RTL
+michael.stahl,VIEWING: A Navigator entry in particular .odt pegs CPU
+jluth,"ibus keyboarding solution - kmfl characters are not ""swallowed"" after completing the complex letter"
+michael.stahl,"New ""XML Form Document"" cause Document Recovery dialog"
+momonasmon,TOOLBAR: Paste no longer has paste special drop down in Impress/Draw
+lionel,"Query: Parameter-dialog should submit NULL instead of empty string, if there is no input."
+lionel,EDITING: Form-wizard doesn't show background-styles
+jluth,linked textboxes/frames don't work in .docx format
+jluth,track changes - accepting change in MS Word merges tables cells
+bakos.attilakaroly,FILEOPEN: Incorrect layout of table in DOCX file
+jluth,"Unevaluated variable (""Undo: Delete $1"") appears in UNDO list after cutting text"
+momonasmon,Numbering toolbar icon not working for certain locales
+lionel,Form: Tablecontrol navigation to last row often impossible
+markus.mohrhard,"XLSX: In charts, graph legend position is not saved if you drag it manually"
+jluth,Style changed when saved as docx
+jluth,Table corrupted when saved as doc
+jluth,"TABLE, FORMATTING: .doc page breaks between tables lost when saved in Word"
+michael.stahl,Failure to load gradients from ods file
+jluth,DOC import: broken cross reference field
+erack,Text to columns only affects first line when width is auto set
+Katarina.Behrens,Subscript and superscript have problems retaining FORMATTING
+dennisfrancis.in,FILEOPEN:Calc correctly reads but does not apply pie label settings
+markus.mohrhard,FILESAVE: XLSX - Chart being saved in OOXML 2007 format
+markus.mohrhard,FILESAVE: XLSX - Chart appears with round corners [RT]
+markus.mohrhard,FILEOPEN: Chart Axis Label replaces Legend on OOXML round trip
+jluth,FILEOPEN: DOCX - Incorrect text highlight color in table header
+michael.stahl,Applying font replacement does not adapt line breaks
+jluth,Emulate non-splitting tables with .DOC is broken
+varga.balazs3,FILEOPEN: Decimal Place Formatting issue with imported OOXML charts
+jluth,"FORMATTING: DOCX, Paragraph background color set to 'No Fill' not persisted on save"
+michael.stahl,"WRITER ""Format All Comments"" doesn't set the format properly so it is lost when storing the documents"
+tundeth,FILESAVE : XLSX Image hyperlink is not exported after roundtrip.
+jluth,using kmfl in calc transposes characters when editing existing text
+markus.mohrhard,Chart Axis Title rotated on OOXML round trip
+jluth,FILESAVE: Shapes Rotated 180 Moved on Round-Trip
+momonasmon,Draw has no named toolbar
+jluth,FILESAVE: Borders not proper in table from DOCX
+jluth,FILESAVE: Footnotes per page not recognized in .DOCX
+erack,"EDITING: For Spanish cell format with the first three letters of a day of week plus date, only for Tuesday (Martes) is not recognized as date."
+lionel,View of cell data gone in Table Data View
+zolnaitamas2000,Cannot get accessible text attributes for 'Not in dictionary' entry
+zolnaitamas2000,Missing accessibility events when selecting/deselecting cells in Calc
+erack,Changing a formula calculation to include § causes truncation
+jluth,FILESAVE: DOCX - Margins not preserve
+Katarina.Behrens,"Very slow previewing of (or blank, invisible..) master pages - resizing panel refreshes them instantly"
+jluth,EDITING: Text selection with Shift+PageDown broken part2
+momonasmon,Calc: Basic drawing tools don't work
+momonasmon,"FILESAVE PDF: LibreOffice crashes when saving document (GTK3, Gnome 3.18)"
+vasily.melenchuk,Paragraph numbering on one paragraph resets when it shouldn't
+erack,"SORTING Natural sorting not working with non-letter,non-number content"
+jluth,Alt+X represent Unicode characters in the Basic Multilingual Plane by with 4 hexadecimal digits
+jluth,Header/footer lost (in specific file) on subsequent pages caused by page break (new page style crated)
+zolnaitamas2000,FILESAVE: Roundtrip any PPTX file with Shapes creates invalid OOXML
+jluth,<Alt>+<x> does not work in any of LO 5.1.0.0beta1 modules any longer
+zolnaitamas2000,"FILEOPEN: MSO DOCX image incorrectly placed when using Alignment Position(Top Margin, Top Page ...)"
+michael.stahl,Pasting text leaves focus somewhere in the middle of the document.
+lionel,BASE: filter doesn't work for query fields which are sum
+lionel,Left Join not available in Base SQL parser (and thus in Query UI) with unixodbc and sqlite
+lionel,garbage for null in non-nullable integer field
+jluth,EditEng AccessibleParagraph not focused on first use - KMFL doesn't swallow characters
+jluth,"Characters are not displayed in GTK textbox until Enter is pressed – IME-input (Japanese,…) is not shown on Properties|Description|Comment."
+jluth,Docx import loses landscape after first page
+jluth,FILESAVE: Paragraph White Fill added to some tables in DOCX export
+michael.stahl,DOCX import: paragraphs wrongly in a list in particular document
+markus.mohrhard,FILEOPEN: XLS import hangs with 100% cpu usage
+jluth,FILESAVE DOC Does not preserve the font size in empty tables
+michael.stahl,"Undo ""AutoFormat Table Styles"" is incorrect"
+erack,Array Formula Incorrectly Evaluated
+mikekaganski,FILEOPEN: can't open files in path of more than 260 chars
+jluth,table properties single cell spacing not saved.
+s.mehrbrodt,Impress: Hard to select a hyperlink with the mouse
+momonasmon,Bring back Save as singular .uno command
+erack,SUM function does not take into account precision as shown for ranges with numbers only (comment #7).
+mikekaganski,"White Line in single monitor slide show mode, LibreOffice Impress"
+erack,Defining a named range for complete column or row results in broken expression (Formula syntax = ExcelR1C1)
+s.mehrbrodt,"Adjust language from ""Target"" to ""URL"" or ""Address"" in hyperlink dialog"
+markus.mohrhard,"assertion ""SolarMutex not locked"" from <Cancel> Data Ranges dialog"
+jluth,Exported DOCX cannot be opened by Word 2013
+erack,"Advanced filter dialog being modal, it is impossible to select filter criteria with the mouse"
+erack,CALCULATING: some wildcard combination doesn't work at least with SUMIF()/COUNTIF()
+serval2412,Delete column with styles resets the 'Apply Style' drop down
+jluth,Clear direct formatting ignores area fill attributes
+Katarina.Behrens,"UI: Paste Special dialog, Tab order for option buttons Operations is wrong"
+jluth,FILEOPEN DOCX Long text in 1-cell table is showing only 2 lines
+zolnaitamas2000,Find Text text widget fails to emit accessible object:text-caret-moved events
+jluth,"EDITING: ""Delete Comment"" in Comment drop-down menu sometimes deletes the commented text!"
+Katarina.Behrens,Custom Gradient not getting saved to ODP
+momonasmon,ruler cannot be hidden
+markus.mohrhard,Issue with clone conditional formatting. Not all copied formatting is saved.
+erack,WEEKDAY function - second parameter not checked
+vasily.melenchuk,FILEOPEN: Docx arrows not correctly rendered
+sbergman,Support Java9
+erack,"EFFECT_ADD -> EFFECTIVE, EFFECT function"
+Katarina.Behrens,Solid color section doesn't keep origin
+markus.mohrhard,FORMATTING - conditional formatting gets corrupted upon copy/paste/insert
+erack,Operator & (text concatenation) in array mode broken
+serval2412,Template manager slow to load template previews
+jluth,"""Disallow table to split across pages"" does not work for a table after the file is saved as ""doc"" and reopened."
+jluth,textbox background fill lost when round-tripping in .doc
+serge.krot,Empty input fields completely invisible
+momonasmon,In the Startcenter there is no tooltip for the thumbnails
+jluth,Inserting comments makes commented text unsearchable
+Katarina.Behrens,Sidebar Page content panel background drop lists confusion
+markus.mohrhard,MS PowerPoint with Chart shows hidden data labels when opened in Impress
+michael.stahl,"ODF filter: <table:table> as child of <draw:custom-shape> is written in case of strict ODF1.2, but invalid"
+erack,F4 breaks array formula
+kohei,Fileopen XML: Date format not recognized in a column and opened as general number (comment 6)
+momonasmon,Border widget must not focus the first option
+jluth,"unable to compile in 12.04: Namespace prefix manifest on file-entry is not defined"""
+jluth,FILESAVE: DOCX - Header watermark draw object gets corrupted on roundtripped
+s.mehrbrodt,"FILEOPEN: Non-English numbering characters ""①, ②, ③"", ""α, β, γ"" are converted to digits (1,2,3)"
+erack,Status bar functions don't work across multiple sheets
+jluth,FILEOPEN: DOCX: paragraph spacing not imported
+jluth,FILEOPEN: DOCX: Incorrect page break moves content to page 2
+jluth,FILEOPEN: DOCX: Table is displayed behind the text
+dennisfrancis.in,FILEOPEN: DOCX: Bubble not displayed in chart
+varga.balazs3,"FILESAVE: DOCX with X Y Bubble chart corrupted after roundtrip, cannot open in MSO"
+markus.mohrhard,Conditional formatting is not updated when deleting a row
+heiko.tietze,Add Breeze palette
+jluth,FILESAVE: columns saved in different pages after RT
+jluth,FILEOPEN: PPTX Table cell borders shouldn't be displayed
+zolnaitamas2000,FILEOPEN: PPTX: Group solid fill is not imported
+nemeth,"FILEOPEN DOCX: Paragraph spacing ""auto"" is imported as 0.49 cm"
+bakos.attilakaroly,FILEOPEN DOC/DOCX: Wrongly placed images in table
+jluth,FILEOPEN: DOCX: missing page and paragraph
+erack,Dump and slow saving of specific XLSX
+jluth,Edit page-break dropdown between pages uses current cursor placement - not first paragraph of following page
+markus.mohrhard,FILEOPEN DOCX: Inconsistent pie chart color
+jluth,"FILEOPEN: green image in .DOC header incorrectly positioned, ""bellow paragraph"" from Word not correctly set ""from top to margin"" in Writer"
+jluth,FILEOPEN DOCX: File appears to be empty
+michael.stahl,Formatting toolbar closes and cannot be reopened after converting text to Math object
+bakos.attilakaroly,FILEOPEN: Wrong Position of MS .docx Chart Object on Import
+jluth,FILEOPEN: DOCX: Extra page added between portrait and landscape pages
+jluth,FILEOPEN: DOCX Paragraph spacing is set to 0
+jluth,FILEOPEN: DOCX: Extra paragraph added to first page
+Katarina.Behrens,FILESAVE: PPTX Transparent % background not exported
+serval2412,Digital Signature reports !!br0ken!! in Properties dialog
+jluth,docx autosize table created very large - extends way past right margin
+michael.stahl,assertion in SwRegHistory::InsertItems
+sbergman,Inserting images into Photo Gallery crashes when image file name contains hash (#)
+sbergman,SortDescriptor Delimeter property changed to CHAR value
+nemeth,FILEOPEN: DOCX: Incorrect font size in btlr text
+jluth,Text position of one line of text changes when adding a border line below it
+erack,FORMATTING: Unable to change Data Bar conditional formatting
+jluth,FILEOPEN DOCX: LibO will add a empty page after each page break
+mikekaganski,LibreOffice Fileopen PDF formatting: PDF is flipped (upsidedown/backwards)
+mikekaganski,"Positions just before and just after fields (like FORMCHECKBOX) are read-only, disallowing removal of the field"
+erack,Applied background color is not selected when opening Format > Cells > Background
+raykowj,Problem with <Shift>+TAB keyboard Navigation on the Standard toolbar
+Armin.Le.Grand,right/bottom borders of export shape to png (etc) missing
+bakos.attilakaroly,FILEOPEN: DOCX: Text boxes overlapping the page borders are handled wrong
+serge.krot,FILESAVE: Check boxes get lost when saving as .XLSX
+mikekaganski,VIEWING: Document canvas view jumps to beginning of index after updating
+momonasmon,Color widget should list an exact number of items
+michael.stahl,FILEOPEN: RTF: Incorrect paragraph break at the beginning of the document
+jluth,FILEOPEN: Incorrect column alignment in table
+momonasmon,Color picker window in floating mode closes itself
+michael.stahl,"FILESAVE, ODF: attribute text:style-name is invalid in table:table-template"
+Armin.Le.Grand,Error when saving a polygon with points converted to curve
+nemeth,"Protect changes setting can be turned off even if ""Lock Tracking"" is set in DOCX"
+jluth,FILESAVE: DOCX: highly cropped images lose most of the crop on round-trip.
+sbergman,MS Word cannot open round-tripped docx
+serval2412,EDITING: error deleting relationship in embedded Firebird
+erack,"ODF export LO uses wrong element for user data ""initials"" in file (loext:sender-initials)"
+markus.mohrhard,FILEOPEN: XLSX - Chart sheet tab color not imported
+serval2412,Fatal Error from rt-click on table in Relation Design window
+momonasmon,Customize window: Styles > Table category in Add Commands empty
+momonasmon,Customize window: Styles > Cell category in Add Commands empty
+momonasmon,Customize window: Styles > Table Design Styles category in Add Commands empty
+jluth,FILEOPEN: DOC: character properties of autokern don't override default style
+jluth,XLSB: sheet protection is reversed
+markus.mohrhard,FILEOPEN XLSX: The column descriptions of a column chart disappear
+tundeth,"[FILESAVE DOCX] Exploded Donut charts do not ""explode"" if more than 1 column of data"
+varga.balazs3,[FILESAVE DOCX] Chart title area fill property lost when saved as DOCX
+erack,Autofill overwrites data with mixed empty and filled cells
+nemeth,FILEOPEN: SAXException: [word/document.xml line 2]: unknown error for .docx with floating table in header
+erack,"Calc ""export selection"" exports whole  page"
+mikekaganski,DOCX IMPORT: support unit specification for ST_HpsMeasure
+erack,Text in form text fields no longer visible
+serval2412,Inserting into a Form Table Control Date/Time (Time) field gets stuck
+mikekaganski,Repeat of 2 heading rows do not work in case of vertical text orientation in 2nd row
+nemeth,FILEOPEN: DOCX file numbered list number in wrong place - not preserving hanging indent
+vasily.melenchuk,FILEOPEN: DOCX file numbered list restarted from 1 following section break assumes previous numbered list sequence after 1
+erack,"[EDITING] Named range gives an ERR result when deleting a row/column of their range, but the named reference erroneously remains fine."
+serge.krot,FILESAVE XLSX: Copy-pasting cell validation may result in a sheet reference error saved as invalid xlsx content
+erack,Deletion up to MAXCOL or MAXROW needs to handle UpdateReference
+mikekaganski,DOCX IMPORT: Extra pages and wrong page sizes in a specific document
+jluth,FILEOPEN: DOCX: footnote separators missing
+jluth,RTF import: Numbering is duplicated
+jluth,FILESAVE: DOCX: new line added every roundtrip
+zolnaitamas2000,Moving table object with ALT+Arrow keys does not work properly
+zolnaitamas2000,DOCX: Multipage table is not imported properly - fix by avoid floating table conversion
+m.weghorn,Mailmerge: cannot use CSV with space in the file name as Address List with MM Wizard
+zolnaitamas2000,FILESAVE: ODT: Anchor changed from 'as character' to 'to character' after RT
+mikekaganski,FILESAVE: Textbox's height is reduced after RT
+mikekaganski,DOCX IMPORT: A table in a specific document has wrong width in Writer
+jluth,Footnote number format changes after conversion to .docx and opening in Microsoft Word
+markus.mohrhard,Crashreport: link isn't displayed in Linux
+serval2412,Assert in ustring:cxx - static_cast<unsigned char>(*pCharStr) < 0x80
+erack,TEXTJOIN and CONCAT handle array/matrix column-wise instead of row-wise
+dennisfrancis.in,FILEOPEN:Importer correctly reads but does not apply pie label settings of XLSX and DOCX
+sbergman,Crashed in Calc Macro (Basic)
+serval2412,AddTempDevFont(const OUString& rFontFileURL) leaks memory on invocation
+Armin.Le.Grand,FILEOPEN: ole object preview is blank
+Armin.Le.Grand,VIEWING: Text become blurred while zooming
+serval2412,CoreTextGlyphFallbackSubstitution::FindFontSubstitute() leaks memory on invocation
+serval2412,Template Manager memory leak in TemplateLocalView::insertItems()
+raykowj,Area tab bug: Unexpected interaction between bitmap and pattern settings
+serval2412,Memory Leak in sd::TemplateScanner::ScanEntry()
+erack,unable to open XLSX files in Calc
+mikekaganski,FILESAVE: Empty input fields in .DOCX not retained
+michael.stahl,"assertion at dbggui.cxx:47, solar mutex locked"
+serval2412,SfxCommonTemplateDialog_Impl::FillTreeBox() leaks memory
+mikekaganski,"When using page-border, size of margins increases every time file is saved as DOC(X) (see comment 3)"
+nemeth,Allow image as full-page background to cover the whole page (see comment 19)
+michael.stahl,FILEOPEN: DOCX thesis template with missing name and logo of university on 2nd page
+michael.stahl,FILEOPEN: DOCX thesis template with empty header
+jluth,FILEOPEN: RTF: Incorrect indent
+michael.stahl,"assertion, lstner.cxx:101, ""duplicate listener ..."""
+bakos.attilakaroly,FILEOPEN DOCX Image in header pushes the text that should be below the image to the right
+mikekaganski,FILESAVE: An XLSX gives warning about Pivot Table cache on opening in Excel after saving in Calc
+bakos.attilakaroly,"FILEOPEN DOCX Page breaks are before the images in Microsoft Word, but after images in LibreOffice Writer"
+mikekaganski,FILEOPEN DOC: a table is imported into a frame; second page is missing
+jluth,FILESAVE DOCX: Document with one column section appears with two columns in LO
+serge.krot,"FILEOPEN, DOCX spurious blank line in text"
+dennisfrancis.in,Undo delete of cell comment looses comment position
+m.weghorn,'Delete comment' not working with mutli-selection
+jluth,FILESAVE: DOC: Table is cropped after RT
+michael.stahl,Copied FORMTEXT field in DOC is corrupted when file is saved and reopened
+serval2412,Chart crashes when transparency is square
+Armin.Le.Grand,FILEOPEN: Incorrect symbol displayed on document
+serge.krot,FILEOPEN: DOCX: Textbox wrap differs in MSO and LO
+Armin.Le.Grand,FILEOPEN: EMF+ Incorrect lines' height
+heiko.tietze,Special character: context menu has no function
+serval2412,File Selection widget in dialog causes crash
+serval2412,Crash: Open 'Data Provider' on Calc
+jluth,Roundtripping flipped group drawing in .docx results in shifted image in Word (but not Writer)
+zolnaitamas2000,Sidebar: Controls are crammed in Slide content panel in Master view if going from Handout view
+serge.krot,"UI: Links dialog: ""source file"" label is overwritten with its value"
+erack,Cross-Document reference in array formula using FIND/ISERROR does not work
+michael.stahl,Inserting Draw Objects via BASIC command does not place them at given vertical position
+Armin.Le.Grand,FILEOPEN: artifacts on Images ( white lines )
+michael.stahl,FILEOPEN: DOCX: Incorrect vertical position of textbox
+mikekaganski,DOCX with floating table having 100% width incorrectly imported
+serval2412,Calc crashes when deleting a sheet if the preceding sheet contains image
+dennisfrancis.in,LibreOffice will hang when moving or copying a few columns using drag and drop
+erack,Calc does not give warning when opening file containing a sheet with more than 1024 columns
+momonasmon,Crash in: Menu::~Menu()
+raykowj,Outline headings remain highlighted in Navigator content navigation view after cursor is positioned to different outline heading in document
+serval2412,SQL error: extra parentheses
+serval2412,"Crash in 'Form-based filters' when updating filter name, e.g. the 'Or'"
+nemeth,DOCX import: fix missing background color of numbering set by shadowing
+markus.mohrhard,FILEOPEN: Chart height is different than before
+jluth,FILESAVE: PPTX Incorrect position of shapes after RT
+serval2412,"Letter, fax and agenda wizard not localized"
+Katarina.Behrens,Strings in new Cryptography section of Options' User Data tab don't wrap if they are too long
+jluth,EDITING: LibreOffice ignores page break when adding a table to the second page (& deletes a page in a certain case)
+Katarina.Behrens,Incorrect shortcut key behavior in Options
+zolnaitamas2000,Pasting multi-line text from external source behaves strangely
+raykowj,Tree nodes containing the commands in the customization dialog should open on single click
+michael.stahl,FILEOPEN: RTF: Incorrect vertical position of lines (follow-up)
+mikekaganski,FILESAVE: RTF: Incorrect cell width after RT (in MSO)
+erack,FILEOPEN XLSX Pie chart default percentage format does not match Excels
+Armin.Le.Grand,FILEOPEN: Paragraph borders are non-continuous on paragraphs with paragraph spacing
+raykowj,Missing Messages at the Use of “Navigate by” Function when Document Beginning or End is Reached
+varga.balazs3,FILEOPEN .docx : Chart is distorted and legend overlaps with the chart
+erack,"Use of WEBSERVICE within a macro in CALC raises an ""Illegal argument"" exception"
+michael.stahl,Assert when using tab to move between controls in the Navigator in the Sidebar
+jluth,FILEOPEN Shape in table in a DOC appears on wrong side of the page
+mikekaganski,Not able to select an image in Calc (LibO6.1.0.0)
+jluth,FILESAVE: .doc style is lost after saving file as .odt
+erack,MATCH applied to a search array introduced by an OFFSET subexpression results in Err:504.
+erack,Sum button: Calc adds wrong sum formulas if you select more than one row or column
+m.weghorn,"If you enter email settings during the mailing process, the sending will fail"
+erack,Find & Replace diacritic-sensitive searches are always linked to the CTL language setting and search replace fails when no CTL default is checked active
+jluth,FILEOPEN DOC(X): background color of a table row disappears
+heiko.tietze,"Remove ""3 seconds to add/delete col/row"" functions"
+kohei,Cyrillic characters in XML show as question marks
+mikekaganski,A new page style will have 'header on' without being checked at all
+s.mehrbrodt,"Wrong font metrics with Font ""DIN Light"""
+s.mehrbrodt,"Support Cut, Copy, and Paste with images anchored to Cells"
+Katarina.Behrens,"GEN, KDE4: Find textbox can't get focus when find toolbar is undocked"
+jluth,FILESAVE: DOC: CR added at the beginning of footnote on first save
+s.mehrbrodt,Anchored to Cells set to Resize also Move when Shrunk
+vasily.melenchuk,"FILEOPEN DOCX Numbering format shown as ""1.1.1-"" even though it should be ""1-1-1-"""
+lionel,embedded firebird files created with parameter name substitution disabled
+erack,Crash in: ScGridWindow::ClickExtern()
+Armin.Le.Grand,Crop Outline does not match Crop Area
+heiko.tietze,Sidebar: Shapes deck should fill the whole sidebar
+raykowj,Wrong table formatting when redoing the adding of table rows
+michael.stahl,External Forms: Form control property connection-resource link-ref contents changed when an odt file is saved
+mikekaganski,FILEOPEN: RTF: parser dont draw tables correctly
+nemeth,FILESAVE XLSX: Drawing Objects (Shapes) multiply every time an XLSX file with comments roundtrips
+serge.krot,Autofilter settings being reset in some cases
+Armin.Le.Grand,WRITER: Can't create group box using the wizard
+heiko.tietze,FORMATTING Merge cells dialog radio buttons cannot be unselected
+erack,Selection doesn't move left nor right by pressing ENTER
+jluth,FILEOPEN: DOCX: Before text indent is ignored
+Armin.Le.Grand,Blue textbox background when pasting sheets from clipboard
+Armin.Le.Grand,A large 3D object gets pasted as a single dot
+raykowj,Footnote navigation when in footnote text is inconsistent
+Armin.Le.Grand,Fontwork shape is not saved
+serval2412,Firebird: Migration: Libo enters race condition when certain odb files are migrated
+serval2412,Base allows users to execute macro code even when macro execution is blocked by security setting
+momonasmon,Ctl+Alt+Shift+V should paste in a comment when cursor is active in a comment field
+raykowj,Area tab: Bitmap preview is not shown
+mikekaganski,FILEOPEN Numbering in a specific DOC is huge
+bakos.attilakaroly,FILEOPEN DOCX: Text in a table is invisible due to spacing and row height - see Comment 12
+Armin.Le.Grand,Crash when cutting an 3d object in Draw
+serval2412,"LibreOffice crashes after clicking ""Target in document"" button in the Hyperlink dialog"
+erack,"LibreOffice Basic freezes when line ends with ""0."""
+vasily.melenchuk,FILEOPEN: FORMATTING occasionally wrong row height
+heiko.tietze,Sidebar: mouse wheel should work with the shapes desk
+momonasmon,Last used color part of background color split button not working correctly
+Armin.Le.Grand,FILEOPEN: Incorrect height of textboxes
+varga.balazs3,FILEOPEN VBA Macro:“Workbooks.Open Filename” command does not work
+zolnaitamas2000,FILESAVE DOCX ActiveX form control saved incorrectly with Hungarian accented letters
+erack,Calc fails to render (default setting) kerning=off for cells with no character formatting (leads to bad type face and bad digit alignment) [Comment 23]
+Armin.Le.Grand,FILEOPEN: General Error opening a SVG file
+jluth,DOC/DOCX: Footnote separator Line position is wrong when locale doesn't match RTL/LTR
+raykowj,Sidebar: Style is not added back to hierarchy after deleting and redoing it
+serge.krot,FILESAVE: DOCX Export loses header/footer
+michael.stahl,FILEOPEN: Form fields not displayed
+jluth,FILESAVE: Shape is incorrectly rotated after RT
+Armin.Le.Grand,Extrusion of shapes fails
+nemeth,FILEOPEN DOCX Using direct formatting on a paragraph replaces non-modified attributes of the paragraph style with the settings of the base style.
+jluth,FILEOPEN ODT Table rendered in wrong position. Position change reverts after save.
+dennisfrancis.in,Statistics Regression. OK button always disabled because of decimal separator dependence with locale UI not dealt
+michael.stahl,Master Document: insert text from file doesn't work
+erack,RAND() in an array returns the same value for each cell
+mikekaganski,Address block content not shown in mail-merged document if a field is added after running wizard
+erack,subtotal option loses doesn't contain existing format for column
+momonasmon,Paste Special - Unformatted text isn't working inside a textbox
+mikekaganski,Installer claims of MS KB 2919355 for Win 8.1
+mikekaganski,"CRASH Impress: UI locks up when I drag a slide from the left ""Slides"" view to the Windows taskbar"
+nemeth,FILEOPEN: Auto spacing sets above paragraph property to 0
+Armin.Le.Grand,Crash when dragging column from datasource to spreadsheet
+raykowj,Area tab: Pattern preview is not shown
+erack,inserting columns or rows changes global named ranges on different sheets if expand references is on and insertion touches the edge (ignoring sheet)
+erack,Date Format MM/DD/YY not Preserved When reading XLSX or XLS
+nemeth,EDITING DOCX Track changes deletion and addition in paragraphs with tracked paragraph formatting change not displayed instantly
+bakos.attilakaroly,Fileopen DOCX: images outside table
+s.mehrbrodt,FILESAVE PPTX: PowerPoint wants to repair the file after roundtrip and cannot open it
+michael.stahl,Embedded table position off after switching from webview to normal view & back
+mikekaganski,FILEOPEN Arabic text truncated in attached DOCX
+mikekaganski,Fly in Words with non-animated background show entire paragraph in addition
+serval2412,Freeze after command format->text->Capitalize Every Word
+serval2412,Format > Text > Cycle Case on attached example file hangs Calc reproducibly
+Armin.Le.Grand,FILEOPEN DOCX with embeddings: Image is blurred
+serge.krot,FILEOPEN Top-aligned text in PPTX becomes bottom-aligned
+nemeth,"FILEOPEN: Above paragraph set to 0,90 line instead of 0"
+mikekaganski,Disappeared some MS Equation symbols in DOCX file when open it in Writer
+michael.stahl,UI: Interactive gradient tool is broken
+sbergman,Fileopen: Table opens a width of 115.60 cm (since LibO6.1) in webview
+michael.stahl,[Writer Table] Freezes/hangs when splits a table with merged cells to 2 pages
+heiko.tietze,UI Consistency for inserting rows in Writer table
+mikekaganski,"Intermittent crash when Frame and document have blank database fields and ""Hide paragraphs"" option on"
+erack,"Wrong result of Conditional formatting with type Date: condition ""This week"" shows 9 days in week instead 7 days"
+mikekaganski,Rotation Dial for Image Does Not Work
+m.weghorn,"Print dialog: ""Use only paper size from printer preferences"" may be shown with inconsistent values"
+serval2412,Assertion failed when double-clicking in a table in the attached ODT
+erack,Deleting shared formula group top cell does not re-establish listeners for the remaining (group) formula cell(s)  (steps in comment 5)
+Katarina.Behrens,kde5: Impress presentation cannot be started using keyboard
+jluth,FILEOPEN DOCX: Left table border overlaps text (no table-level borders defined)
+zolnaitamas2000,FILESAVE DOCX The combo box ActiveX control is lost in LibreOffice Writer
+Katarina.Behrens,kde5: Unnecessary white window in Base Database Wizard
+Katarina.Behrens,"kde5: Java extension ""WollMux"" not working properly"
+mikekaganski,"DOCX: Horizontal spacing of font ""Open Sans"" differs from Word"
+mikekaganski,Installation glitch for EmojiOneColor-SVGinOT.ttf
+dennisfrancis.in,Spreadsheet formula corrupt with 6.1.1.2
+erack,Using a second defined database range in formula expression switches to first range.
+erack,"After Cut&Paste of an overlapping data range, cells of a shared formula group reference run are not recalculated"
+Armin.Le.Grand,FILEOPEN: file gets modified without changing anything
+jluth,FILEOPEN Reference field to text field in DOC is broken
+dennisfrancis.in,No update to refs to sum cell after undoing change in sum range
+bakos.attilakaroly,FILEOPEN DOCX: Incorrect merged cells in writer table
+michael.stahl,Draw/Impress: Styles duplicated when copying slides
+heiko.tietze,UI: Rename Page numbers to Page number in Fields dialog
+heiko.tietze,Functions “Insert Columns Left” and “Insert Rows Above” Exist Two Times in Customize Dialogue
+Katarina.Behrens,kde5: Keyboard shortcuts not shown in menu
+Katarina.Behrens,"kde5: Active toolbar not preselected in ""View"" -> ""User Interface"""
+Katarina.Behrens,kde5: Impress presentation mode crashes in single-monitor setup
+Katarina.Behrens,kde5: Impress crashes when opening slide containing video
+m.weghorn,"kde5: ""Find & Replace"" not correctly shown in menu"
+serval2412,JDBC driver test could not be loaded - wrong icon
+Katarina.Behrens,Pie chart segment rendered as rectangle when anti-aliasing is off with gtk3
+Katarina.Behrens,kde5: Copy and paste of Calc cell not working
+dennisfrancis.in,cells not recalculated after copy/paste different range of cells
+erack,FILESAVE Roundtripped XLSM opens with recovery in Excel
+s.mehrbrodt,"Right click context menu contains ""Remove Hyperlink"" without a hyperlink present"
+Katarina.Behrens,kde5: Implement drag'n'drop between multiple documents
+Katarina.Behrens,KDE5: Text in document disappears if it's drag'n'dropped to the sidebar
+Katarina.Behrens,KDE5: Drag'n'drop doesn't work from the Data Sources
+serval2412,LO Writer: Error saving the document: Write error  The file could not be written
+Katarina.Behrens,Comment not displayed on hovering with gtk3 and kde5
+Katarina.Behrens,kde5: Impress crashes when exiting presentation mode
+Katarina.Behrens,KDE5: Can't move down field to see text with breaks in LO Calc
+Katarina.Behrens,KDE5: There is no Checkbox for some options in View (LO Calc)
+raykowj,Toggling undocked Navigator from page number field causes toggle off and and then back on
+erack,"SUBTOTAL function, doesn't work inside SUMPRODUCT while it works inside an SUM array"
+heiko.tietze,Option to use Header/Footer not working correctly
+Katarina.Behrens,KDE5: LO Calc -> Data -> Data provider leads to crash
+erack,Cells not recalculated after moving data within ranges pointed to by a shared formula group.
+nemeth,FILEOPEN DOCX OLE form control checkbox is larger than in Word
+serge.krot,Calc: Slow load of cells with VLOOKUP with references to empty cells
+jluth,FILEOPEN: Bidi text is aligned to the left
+jluth,FILESAVE: DOC/RTF: Paragraph fill becomes blue after roundtrip
+mikekaganski,"LibreOffice sends ""your system has crashed"" message if ""Close Application"" event is defined"
+mikekaganski,MAILMERGE Document with a custom page style and section is mail-merged into default style
+mikekaganski,Arrows are missing after opening a file with arrows
+nemeth,Docx with Track changes enabled show removed fragment as present
+vasily.melenchuk,chart: multiline chart title in presentation not supported
+momonasmon,SIDEBAR: border cell color isn't shown (white box)
+m.weghorn,KDE5: Can't save minimized presentation
+markus.mohrhard,FILEOPEN XLSX Chart area created with Excel shrinks when the document is opened in Calc
+michael.stahl,Images anchored to a paragraph are deleted inconsistently when anchored at-paragraph
+sbergman,4-argument form of Mid() BASIC function broken in 6.x (worked in 5.x and OO)
+jluth,FILESAVE: DOCX: header/footer gets lost after RT
+dennisfrancis.in,Performance regression enabling automatic update of external links
+vasily.melenchuk,"EDITING DOCX, Word document edited in Writer by typing after and before footnote number, the typed text become superscript"
+serge.krot,Writer: DOCX export from ODT: wrong tabs stops in TOC
+vasily.melenchuk,[EDITING] Charts data ranges in Writer cannot be edited
+bakos.attilakaroly,DOCX Import formula alignment (centered or right-aligned formulas are left-aligned in Writer)
+serge.krot,Writer:  DOCX export from ODT: TOC title is not recognized by MS Word
+mikekaganski,"prompt for password pops up of protected spreadsheet-datasource, as soon as file with related databasefields is opened"
+nemeth,FILEOPEN RTF The 2 column setting is lost when the first column contains only a table
+s.mehrbrodt,FILESAVE DOCX Automatic Hyphenate created with Word hyphenates words in CAPS too
+s.mehrbrodt,FILESAVE DOCX Hyphenation zone created with Word resets default value
+jluth,FILESAVE DOCX Only one Manual Column Break remains after export
+nemeth,FILEOPEN DOCX Page Color created with Word disappears on the margins
+jluth,FILEOPEN DOCX Three type Column with Next Page Section Break created with Word isn’t added to a new page opened in Writer
+mikekaganski,UI and document content appear blurry/out of focus on Windows with fractional scaling after upgrade
+sbergman,Clear the List of Recent documents -> 'this operation is not supported by operating system' ( not reproducible from the start center )
+erack,"FILEOPEN XLSX ""Maximum number of rows per sheet"" on tags ROW without attribute R"
+tundeth,FILEOPEN  XLSX implement feature to disable legend entry for series
+tundeth,FILEOPEN Chart title alignment changes to left
+mikekaganski,Crash modifying several options each requiring restart
+Katarina.Behrens,CRASH KDE5 backend crashes writer on close with selected text
+Katarina.Behrens,"kde5: ""Fatal Error"" when selecting presentation template in Impress and Orca enabled"
+erack,"FILESAVE XLSX, One of the cell changes its textcolor to blue for no apparent reason."
+m.weghorn,LibreOffice 6.1.* crashes by recovering file at start over and over on Linux
+serval2412,clicking on class path make LO crash
+nemeth,"FILEOPEN DOCX The formula field is incorrect in the table, when we change the number format"
+varga.balazs3,DOCX Import Pie chart data labels new line separator changes to semicolon
+erack,UI: Pressing Enter in a protected sheet doesn't jump to next row in every case
+sbergman,"Installer DMG window on macOS has a misplaced ""bin"" folder icon"
+serge.krot,EDITING Autofilters not properly cleared
+erack,FREQUENCY: force array mode on arguments and immediate caller
+mikekaganski,FILEOPEN: DOC: Floating frame is displayed with borders
+jluth,FILESAVE: Header/Footer are gone in MS Office
+jluth,FILESAVE: DOC: Header/Footer are gone in MSOffice with a protected file
+mikekaganski,Cannot use double-click to apply text highlight
+jluth,FILESAVE: RTF: new sections added after RT
+jluth,FILESAVE: DOC: Header/Footer are lost saving section to .doc format
+jluth,"FILESAVE: RTF: section at document start creates extra, empty section"
+nemeth,FILEOPEN/FILESAVE DOCX LibreOffice Writer always shows the first sheet of the OLE embedded XLSX spreadsheet
+m.weghorn,Cannot copy text from/to Libreoffice to/from other application in KDE
+zolnaitamas2000,Legend interferes with pie chart after pptx import
+raykowj,All items in AutoFilter popup menu are not keyboard accessible
+raykowj,Table background color isn't shown when opening table background tab
+serval2412,Crash when converting tdf#122811 file to Firebird
+bakos.attilakaroly,Moving anchor for shape + text box leaves text box behind
+michael.stahl,Writer hangs when deleting specific line
+erack,FORMATTING: Regression from 6.1 to 6.2 in displaying times formatted as Time 876613:37:46
+erack,Shift+Tab jumping back/up to unprotected cells not working
+erack,Invoking the number format dialog the format code field is blank for a user-defined date+time format.
+tundeth,FILESAVE OOXML Doughnut chart circles exported in a different order
+jluth,FILEOPEN: DOCX: Footnote separator text is being added to each footnote
+michael.stahl,Undoing ToC insertion in middle of word causes assertion failure
+s.mehrbrodt,"(6.2 Regression) Printing always sets ""document modified"" status"
+jluth,FILEOPEN: DOC: Background from paragraph is applied to remainder of the document
+sbergman,Unable to create file on gvfs mounted volume
+erack,Array formula with COLUMN() function evaluates to #VALUE error
+mikekaganski,Impress fails to render donut and pie charts with 100 and 0 entries in only column
+Katarina.Behrens,Gallery images cannot be inserted in KDE5
+kohei,Cannot open MSO XML file
+jluth,FILEOPEN DOCX with frame content on multiple pages is condensed to single page
+michael.stahl,Crash when Navigate By Headings search wraps from end to beginning of file
+tundeth,FILESAVE XLSX Empty Chart goes missing
+erack,"Moving (Cut&Paste, Drag&Drop) a column range within the same row into a shared formula group's reference may not recalculate the first affected formula cell (procedure in comment 11)."
+erack,Changing a reference in a formula cell of a shared formula group may not rebuild all dependencies of the then split group.
+michael.stahl,"kde5: Writer: Closing ""Insert"" -> ""Section"" dialog leads to crash"
+erack,Time format may display uncorrected if value includes date
+raykowj,Can't step with keyboard to/between favorite special characters on group button
+varga.balazs3,FILESAVE XLSX Combined chart loses the Y axis main grid visibility
+varga.balazs3,FILESAVE XLSX Combined chart loses X axis visibility setting
+michael.stahl,export to xhtml from writer no longer preserves footnotes as hyperlinks
+Katarina.Behrens,Move slides in LO Impress -> slides disappear and finally it leads to crash
+bakos.attilakaroly,"FILEOPEN DOCX: ""Top and bottom"" wrapped charts cover each other because wrap setting is wrongly Optimal instead of Wrap Off"
+kohei,Opening xls file in previous versions of libre vs 6.2.0.3
+Katarina.Behrens,KDE: Can't resize any toolbar
+Katarina.Behrens,LO Impress: Unnecessary grey rectangle on the screen while demonstration (slide with video)
+varga.balazs3,Import filter issue with DOCX with embedded graph in decimal precision of x-axis values
+serge.krot,"""Y"" is inserted ahead of ToC when its title is empty, when saving to DOCX"
+heiko.tietze,TABLE: Difference between default style as template and default style as style is not clear
+serval2412,"Untranslated strings for Table of Contents, Index, Bibliography, etc."
+erack,"Basic script error after update from LO 6.1.X to LO 6.2.X, when ""URI"" to open from a hyperlink is vnd.sun.star.script:..."
+dennisfrancis.in,Formula result not repainted immediately after Cut&Paste move.
+raykowj,Multi-selection lost after promote/demote chapter/level in Navigator
+erack,"Old ""Enter pastes clipboard"" can still be executed after inserting current date or time."
+dennisfrancis.in,Undo after drag&drop changes the original formula
+michael.stahl,FILEOPEN DOCX (REGRESSION): Orphan and Widow control for paragraph isn't applied in documents made with Microsoft Word
+bakos.attilakaroly,FILEOPEN DOCX table cell content flow changes
+erack,Double negation with text in array context behaves like single -
+sbergman,LibreOffice doesn't detect JVM because of unexpected java.vendor property value
+vasily.melenchuk,FILESAVE: Pasted row height is reset by after saving and reopen
+s.mehrbrodt,Unable to close most sidebar decks
+mikekaganski,Lost of space symbols in DOCX document
+michael.stahl,CRASH: after moving the content down and undoing
+michael.stahl,"CRASH: after pasting, if deleting more text than fits on a page"
+serge.krot,FILEOPEN DOCX Hyperlink in text box does not get blue color
+varga.balazs3,FILEOPEN XLSX Some of the Excel line chart markers disappears in Calc
+Armin.Le.Grand,Parts of svg image not displayed correctly at smaller zoom levels (anti-aliasing)
+sbergman,CRASH: closing a document that previously crash at import time (gtk3/gtk)
+mikekaganski,Columns don't have vertical gridlines after column 64
+michael.stahl,Regression from bug 123259 when anchoring a graphic as character
+tundeth,URL in unicode interpretate as file link
+erack,Rounding of durations displayed as wall clock time.
+michael.stahl,StarViewMetafile import regression
+michael.stahl,CRASH: After editing the index and undoing
+tundeth,FILESAVE XLSX Hyperlink inserted to text box lost after export
+m.weghorn,kde5/wayland: Issues with slide show with videos
+erack,"Custom properties with ""_x005F_"" keep growing escapements when roundtripping as OOXML formats"
+michael.stahl,FILEOPEN DOCX Numbered paragraph loses numbering after deleted paragraph in hide changes view
+zolnaitamas2000,PPTX export: Shape has wrong fill color comming from theme
+raykowj,"FRAME STYLE DIALOG: Frame style area color is reset to none, depending on the tab order chosen."
+serval2412,Crash vcllo!OutputDevice::RemoveTransparenciesFromMetaFile+0xa68:
+michael.stahl,Crash after saving and/or closing document
+mikekaganski,CRASH working with file with lots of hints
+mikekaganski,DOCX Export Document with a picture and page break doesn't open in MS Word when saved as DOCX
+michael.stahl,Wrong calculation number of pages(field NUMPAGES) if page numbering(field PAGE) starts from EVEN number
+michael.stahl,crash in layout after paste on particular document
+dennisfrancis.in,FILEOPEN: Document hangs at import time ( with OOO_EXIT_POST_STARTUP )
+michael.stahl,Crash: ntdll!RtlEnterCriticalSection
+michael.stahl,Crash swlo!SwAnchoredDrawObject::IsValidPos
+tundeth,FILESAVE PPTX Ellipsoid gradient center moves
+raykowj,Crash  swlo!SwPostItField::GetTime
+serval2412,FIREBIRD: Form wizard fails to create correct layout when CLOB[BLOB] field present
+michael.stahl,Crash swlo!SwNode::EndOfSectionIndex
+sbergman,Extrusion on/off is faulty in saving for Fontwork favorite 40
+varga.balazs3,FILEOPEN XLSX Chart data point marker setting “None” imported incorrectly
+varga.balazs3,FILESAVE XLSX Custom line chart marker settings not saved
+erack,Displayed form of date changes to dd-mm-yyyy when date is changed in cell with format dd-mm-yy
+m.weghorn,UI 5.x Curved connectors path messed up when passed to 6.x
+varga.balazs3,EDITING Category labels of bar chart are rotated vertically
+heiko.tietze,Writer styles: Heading subgroup for TOC related stuff
+heiko.tietze,Make labels unique at the customization dialog
+zolnaitamas2000,"In Windows, Date Picker invisible w/ OpenGL, flashes w/ default"
+s.mehrbrodt,Sidebar panels state not always remembered
+tundeth,EDITING Custom size chart legend does not ellipsize contents
+Katarina.Behrens,Misplaced video in presenter console for non-gtk3 VCL plugins
+kohei,FILEOPEN: Cannot open XML (Excel) with style parent ref.
+jluth,"in DOCX files, some styles's ""text direction"" appears Right-to-Left or Left-to-Right depending on User Interface Language"
+mikekaganski,AUTOTEXT: A blank character is needed between autotext-shortcut and the following word -> this is impractical
+tundeth,FILEOPEN DOCX Absolute links broken in Writer
+heiko.tietze,"Writer: Looks as if switch Page to Portrait is impossible - Cause: ""Format > Page"" is not clear because it starts formatting the page Style"
+michael.stahl,CRASH: pasting fly at-char selection
+michael.stahl,CRASH: undoing redlinehide deletion
+mikekaganski,Character Style border attributes UI doesn't show borders or allow change to borders
+jluth,FILEOPEN DOCX Numbered list item gets indent setting from next paragraphs footnote
+varga.balazs3,FILEOPEN DOCX Custom chart axis title position is imported incorrectly
+mikekaganski,Intermittent crash exporting a ODS to XLSX
+s.mehrbrodt,CRASH: Adding Hyperlink with no text
+erack,Autofill doesn't overwrite data in continuously filled cells
+s.mehrbrodt,Sidebar can't be collapsed clicking on the hide arrow
+jluth,Writer change not selected columns width
+mikekaganski,Setting borders on character format become paragraph format
+raykowj,A table row is wrongly formatted when inserting a new row) after a table insert undo/redo
+jluth,"When I make any modification in a .docx file from Microsoft Office 2013, the page break is lost"
+varga.balazs3,Classical shapes with text loose their height on roundtrip with pptx
+zolnaitamas2000,PPTX: FILESAVE: Transparency is lost after RT
+nemeth,EDITING Deletion of text creates undo entry: “Delete $1”
+nemeth,Vesion 6.3.0.4 not saving .xlsx files correctly
+raykowj,"Undo list is populated wrongly with ""Delete slides"" actions"
+serval2412,QR-code generator make non-correct QR for non latine phrase
+sbergman,Impress Crash after Presentation Finished
+varga.balazs3,EDITING Horizontal multilevel axis labels all get the same vertical rotation
+jluth,FILESAVE: DOC/X automatic sized subscript exported as huge number
+zolnaitamas2000,PPTX: Shape's background transparency changes during RT
+zolnaitamas2000,PPTX: Gradient background fill of a slide is lost during RT.
+varga.balazs3,horizontal line chart label needs space on both ends
+m.weghorn,Mail merge prints wrong pages when option to print blank pages is only set in doc
+tundeth,FILEOPEN DOCX: Hyperlink color and underlining gets lost when saving to DOCX
+tundeth,FILEOPEN DOCX Hyperlink does not work in Microsoft Word when the target is image
+nemeth,FILEOPEN DOCX character style properties applied instead of direct formatting in empty paragraphs (see comment 6)
+jluth,"FILEOPEN DOCX Different enter size, without character, makes the table row size greater than in Word"
+michael.stahl,TRACK CHANGES: Replacement problem - spaces separated from other characters when replacing a single word by several words
+tundeth,FILESAVE DOCX Hyperlink does not work when the target is section
+tundeth,FILEOPEN DOCX Hyperlink made in Word does not change color when clicked on in Writer
+m.weghorn,Crash in documentLoadNative method in a library compiled for arm64-v8a
+erack,LibreOffice hangs for a few seconds clicking on the title/subtitle textboxes (ca-ES-valencia)
+tundeth,No support in ODF for Axis position type chart axis property
+m.weghorn,"Non-breaking spaces not inserted when LibreOffice-KDE5 is installed, since Libo 6.3.x (French typo)"
+jluth,FILEOPEN: DOC: Background colour lost on import in a writer file
+erack,Wrong spacing with comma in formulae
+erack,Cell references off by 256 when importing wk1 Lotus 1-2-3 spreadsheet
+erack,"An array formula with SMALL gives blanks, where it used to work as in Excel previously"
+varga.balazs3,FILEOPEN DOCX: Category labels are duplicated.
+Katarina.Behrens,List hierachy not maintained on copy'n'paste
+michael.stahl,infinite loop searching for hyphen and hyphenation attribute
+mikekaganski,CRASH: typing text while macro recording is active
+michael.stahl,Same numbering the first page when insert section
+s.mehrbrodt,FILEOPEN: DOCX: last line in header doesn't use spacing after
+vasily.melenchuk,FILEOPEN: DOCX: Incorrect spacing when paragraph is divided by a line
+michael.stahl,FILEOPEN: DOCX: Incorrect text wrapping of fly frame
+bakos.attilakaroly,FILEOPEN: DOCX: Charts with absolute position are displayed on top of each other
+heiko.tietze,"NAVIGATOR: Rename ""Text Frame"" to ""Frame"""
+michael.stahl,CRASH: Closing LibreOffice after cutting content from document
+varga.balazs3,FILEOPEN: OOXML: Incorrect category position
+jluth,XLSX: comment is displayed by default even without the <x:Visible/> tag
+nemeth,FILESAVE: DOC: Formatting in TOC is lost after RT
+tundeth,FILESAVE: ODT: Text becomes an hyperlink after RT
+raykowj,List Styles can't be deleted in Custom Styles view
+jluth,FILEOPEN: DOC: Row in table has incorrect background color
+varga.balazs3,FILESAVE XLSX Deleted automatic title of chart returns on save
+varga.balazs3,FILEOPEN: Radar Chart is broken
+varga.balazs3,FILESAVE: PPTX: Bar in chart changes position after RT
+varga.balazs3,FILEOPEN: Clustered bar chart is partially displayed
+nemeth,FILEOPEN DOCX Missing image in table cell anchored to text (don't hide not hidden shape which is anchored to a hidden empty cell paragraph)
+erack,FILESAVE: XLSX: Calc save to xlsx flawed
+serval2412,MySQL/MariaDB direct Connection: time-values not written to table
+jluth,Fileopen DOC: table content from header not shown due to table width
+varga.balazs3,EDITING Bar chart secondary X axis labels appear on the tickmarks
+michael.stahl,CRASH: Importing a specific file
+michael.stahl,CRASH: working with fields
+nemeth,FILEOPEN DOCX Paragraph in table gets extra 0.35 cm spacing after
+serval2412,CRASH: Closing LibreOffice after cutting content from document
+nemeth,EDITING Ctrl-drag of Writer table moves the table instead of copying
+mikekaganski,SAXException: [word/document.xml line 20] when you try to open a document from Word 2007-365 (*.docx) format created with LO with a image copy from Draw
+s.mehrbrodt,Style list loses multi selection on right click
+serval2412,AUTO-REDACT: Uneditable target
+dennisfrancis.in,EDITING : Reference incorrectly updated when deleting rows in XLSX
+mikekaganski,"XLS damaging after saving in 6.3, 6.4"
+varga.balazs3,Y-axis labels disappear in horizontal bar chart
+mikekaganski,Calc - names beginning with underscore no longer work
+varga.balazs3,FILEOPEN: Chart is not displayed
+varga.balazs3,FILEOPEN DOCX 100 percent stacked area chart data is imported as percentage
+varga.balazs3,FILEOPEN XLSX 100 percent stacked area chart data labels appear as ratio
+mikekaganski,"""Un-float Table"" does not clear ""floating"" attribute in DOCX floating tables"
+mikekaganski,Poor performance in a Basic code
+michael.stahl,FILESAVE: DOC: checkbox is lost after RT
+mikekaganski,IDE cannot get the content of structs in the watch window
+vasily.melenchuk,CRASH: Importing a specific file ( See comment 6 )
+erack,Shared formula group created by pasting row(s) stops listening to (part of) a range after insertion of a column before the formula group.
+mikekaganski,ToC and its title in a DOCX imported wrong
+nemeth,FILEOPEN: DOCX: Incorrect nested table
+vasily.melenchuk,FILEOPEN: DOCX: Drawings are not displayed
+raykowj,"Undoing ""increase indent"" undoes only one line at a time"
+s.mehrbrodt,Enter key no longer works in Insert Hyperlink dialog ( gen)
+mikekaganski,RTF file not displayed in correct format
+michael.stahl,FILESAVE: DOCX: checkboxes lost after RT
+michael.stahl,ODT import: Field marks are added at the end of the document
+michael.stahl,FILESAVE: RTF: Duplicated entries in TOC  after RT in MSO
+nemeth,FILEOPEN: DOCX: Incorrect padding in table
+michael.stahl,FILEOPEN: DOCX: footer is missing on page 2
+heiko.tietze,"Layout problem, listbox width too wide, in Options-LibreOffice-View dialog for RU GUI"
+serge.krot,Impress: Long operation during typing in animated list
+mikekaganski,Crash in: mergedlo.dll after pasting as Unformatted text in Draw's Text box
+mikekaganski,Crash in: SwViewShell::GetDoc()  -- show print with Field dialog open
+michael.stahl,Crash when copying the content of a complex DOCX
+mikekaganski,Crash inspecting properties of cell range object in IDE
+tundeth,FILESAVE XLSX The legend shows deleted legend entries too after export
+tundeth,FILEOPEN XLSX The legend shows deleted legend entries too in pie charts
+bakos.attilakaroly,FILEOPEN: Incorrect shape position
+erack,FILESAVE XLSX Default Excel date format saved incorrectly
+m.weghorn,Shortcuts don't work in Find&Replace dialog if vcl=kde5 and LANG=ru_RU.UTF8
+raykowj,List content pastes twice after Undo
+varga.balazs3,FILEOPEN XLSX Datapoint label position changes
+bakos.attilakaroly,FILESAVE DOCX Shape anchored to table moves on saving
+raykowj,LibreOfficeDev 6.5.0.0 Navigator collapse headings works only for sub-headings
+s.mehrbrodt,Bookmarks point to incorrect pages in exported PDF if document contains a hidden section
+raykowj,Writer navigator crashes when + is pressed on entries without children
+jluth,Fileopen DOCX: Image from header section from page 2 shown also on page 1
+mikekaganski,Safe mode: Show user profile fails to open the folder
+michael.stahl,TRACK CHANGES: Crash in swlo.dll with track changes enabled and AutoCorrect
+m.weghorn,EDITING: Impossible to delete a table from Relationdesign in Linux KDE5
+erack,"calc: editing: ui: weakness with named ranges, move of cell to another sheet destroys referencing to local name reference there"
+tundeth,FILEOPEN XLSX Area chart shrinks and the data labels are under the chart
+momonasmon,Toolbar created at Document Scope does not save associated icons.
+nemeth,FILEOPEN: DOCX: Text is incorrectly highlighted
+sbergman,Crash when clearing the 'Find' text field
+serval2412,"switch() gives ""wrong data type"" error on reordering value-result pairs"
+serge.krot,Writer: DOCX export: text is not bold
+varga.balazs3,FILEOPEN  XLSX position of column is not retained
+michael.stahl,CRASH: after pasting and undoing (change tracking involved)
+s.mehrbrodt,Basic Dialog does not import/export images
+bakos.attilakaroly,WRITER EDITING: Frame goes out of the shape after moving
+michael.stahl,FILEOPEN: DOCX: erroneous margin around image
+bakos.attilakaroly,WRITER EDITING: Frame goes out of the shape when added to the shape
+erack,local name breaks if previous sheet is deleted
+Armin.Le.Grand,Start Center: thumbnail are broken
+serval2412,"Footnotes: ""Before"" and ""After"" text is placed the wrong way around"
+serge.krot,Writer: Preview of linked doc is not updated when edited
+michael.stahl,CRASH: scrolling document
+varga.balazs3,VIEWING DOCX Chart custom label text multiplied
+varga.balazs3,"FILESAVE XLSX Number formats of single data label changed, after spreadsheet was reloaded"
+varga.balazs3,FILEOPEN DOCX Column chart X axis labels are truncated
+nemeth,FILEOPEN DOCX Table cell background color lost
+varga.balazs3,FILEOPEN: Incorrect format of single data label
+serval2412,Improperly used ampersand
+serval2412,"Checkbox ""Do not distort objects in curve"" does nothing"
+nemeth,Assert: Undoing deletion ( don't store redline ExtraData during Undo )
+raykowj,Can not delete pagestyle in Calc
+raykowj,Print preview bar in tabbed notebookbar does not appear dynamically
+nemeth,FILEOPEN: DOCX: Incorrect table size
+serval2412,Crash when pasting quotes with fixed width
+jluth,FILEOPEN: ms word docx with styles that include bulleting / numbering loses bullet / number part of style in Writer
+erack,FILESAVE XLSX Paste special of #N/A formula result result gives in Err:520 in Calc after reload
+erack,Function Wizard in Calc allows too many parameters
+erack,FILEOPEN XLSX TEXT formula gives different result than in Excel
+erack,Cannot concatenate number and space+dot from VBA macro
+serval2412,"Crash when clicking the ""Text direction from top to bottom"" toolbar icon"
+michael.stahl,Crash when doing undoing
+serval2412,Exporting to html doesn't preserve RTL property
+nemeth,Table incorrectly specified as 100% relative size
+michael.stahl,"EDITING: Image anchored ""To Character"" inside misspelled word is removed when word is corrected with Spell checking"
+nemeth,FILEOPEN DOCX Table left indent not imported from table style
+serval2412,Crash: writerfilterlo!writerfilter::dmapper::ConversionHelper::convertTwipToMM100Unsigned+0x52387
+sbergman,EXIF information not recognized
+m.weghorn,FILEOPEN PPTX: can't open specific pptx
+nemeth,FILEOPEN DOCX CRASH: File fails to open with frame in header and change tracked table
+varga.balazs3,Calc Chart X-axis format lost with xlsx
+michael.stahl,DOCX formtext content is lost after filling
+sbergman,Editing snap lines: dialog decreases entered values when drawing scale is 1:many
+erack,COUNTBLANK function fails with external references
+erack,Function Wizard does not enter array formulas with inline arrays correctly
+varga.balazs3,FILEOPEN DOCX: Chart shows wrong label formatting (decimal instead of prcentage)
+mikekaganski,FILESAVE: PPTX: glow effect is gone in MSO after RT
+michael.stahl,"When copying a block/rectangle, the pasted lines are in reverse order"
+serval2412,FILEOPEN: DOCX: Incorrect MS_COMBOVERLINE symbol
+michael.stahl,Deleting a paragraph at start or end of section deletes the object anchored to it
+michael.stahl,CRASH: undoing paste of frames
+tundeth,FILEOPEN ODT Stock chart columns appear shifted
+mikekaganski,BASIC: Replace is awfully slow
+bakos.attilakaroly,FILEOPEN DOCX OLE object aligned to page opens in shifted position
+varga.balazs3,FILESAVE XLSX Date type X axis columns position appears shifted in Excel
+nemeth,FILEOPEN DOCX Table character direct formatting not applied with another table in footer
+tundeth,No display of labels in pie charts if xlsx created with Excel 2007 (regression in 6.4 vs 6.0 and 5.2)
+michael.stahl,Crash in: SwPosition::SwPosition(SwPosition const &)
+michael.stahl,Crash in: swlo.dll
+jluth,Text in table going off page with Keep with next paragraph checked
+heiko.tietze,"macOS: Installer: mounted dmg UI needs cleanup (misaligned arrow graphic, new v7 image shown too small)"
+michael.stahl,Images anchored to character in table not pasted
+vasily.melenchuk,DOCX import: invalid list start numbering with 0.0.0.
+tundeth,UI Option to set Axis position property of charts
+vasily.melenchuk,FILESAVE DOCX Bulleting symbol changes after RT
+bakos.attilakaroly,FILEOPEN DOCX Formula object wrap setting broken
+heiko.tietze,Text in LO brand logo truncated in About LibreOffice dialog
+jluth,FILEOPEN DOCX: merged cell missing edge border in table
+heiko.tietze,Lost New Gallery Stuff in 7.0
+michael.stahl,Crash swlo!BigPtrArray::Index2Block+0xc8:
+serval2412,Calc: Crash for uninitialized FilterDescriptor in macro
+michael.stahl,Table is multiplying with dummy's after undo
+varga.balazs3,CALC: UI: graph not shown in 7.0.0.0.a1+
+heiko.tietze,Positioning of measurement dropdown is wrong
+bakos.attilakaroly,FILESAVE DOCX Formula alignment changes on export to centered
+nemeth,FILEOPEN DOCX Extra spacing above numbered paragraphs
+bakos.attilakaroly,FILESAVE DOCX OLE object wrap settings are not saved
+serval2412,Crash when using undo 3 times in comment reply
+jluth,"DOCX FILESAVE: Don't export column break in non-column situations, since Word treats as pagebreak."
+varga.balazs3,EDITING Pie chart labels “Best fit” placement overlaps other chart slices
+michael.stahl,Release Notes for removal of trend lines for ODF 1.2 missing
+vasily.melenchuk,FILEOPEN: Frames have no bonder
+jluth,FILEOPEN: DOC: Hang at import time of table in table
+jluth,FILEOPEN: DOC: incorrect spacing in subscript
+nemeth,FILEOPEN: DOCX: Table has no borders
+tundeth,EDITING Gradient types Square and Quadratic have incorrect center
+vasily.melenchuk,FILESAVE: DOC/ODT: Numbering list formatting is lost after RT
+erack,Append % percent sign also while entering a leading decimal separator in a percent formatted cell
+michael.stahl,LO 7 writes invalid <annotation> in ODF 1.3 strict
+michael.stahl,<text:drop-down> is not valid in ODF 1.2
+serge.krot,FILESAVE XLSX Excel gives invalid content error when opening file with shape
+bakos.attilakaroly,FILESAVE: DOCX: Incorrect position of OLE object after RT
+michael.stahl,FILESAVE: DOCX: fields are not displayed in MSO after RT
+vasily.melenchuk,Incorrect rendering numbering in Word defined multi-level list
+varga.balazs3,FILEOPEN DOCX Pie chart label formatted as percentage format becomes number formatted
+nemeth,FILEOPEN: DOCX: Extra spacing in table
+serval2412,Call to loadCalendarTZ crashes LibreOffice
+michael.stahl,Crash swlo!SwDoc::GotoOutline+0x59c
+michael.stahl,CRASH: Undoing deletion of selection
+michael.stahl,CRASH: copying content in nested table
+michael.stahl,CRASH: Undoing table deletion
+michael.stahl,Multiple delete frame style undo actions after paste
+jluth,Select the table by dragging over the columns become harder
+varga.balazs3,EDITING Pie chart area resizes when data label is moved
+vasily.melenchuk,FILEOPEN DOCX Tabs at the beginning of line no longer appear
+varga.balazs3,FILEOPEN XLSX Date axis tries to display empty items in range with month resolution
+momonasmon,Vertical Text Button Can't Be Hide in Some Toolbars
+varga.balazs3,Pie chart data label moves outside of chart area
+michael.stahl,CRASH: undoing table paste
+michael.stahl,CRASH: undoing section paste
+michael.stahl,CRASH: undoing field paste
+varga.balazs3,FILEOPEN DOCX Pie chart long data labels do not break
+vasily.melenchuk,FILEOPEN: DOCX: numbering list has no indent
+michael.stahl,FILESAVE: DOC: Some fields are lost after RT
+bakos.attilakaroly,FILEOPEN DOCX Image in table rendered on wrong page
+m.weghorn,"Crash when tapping odp slideshow, if experimental mode enabled."
+s.mehrbrodt,EDITING Spacing after value in header: changed default behavior
+vasily.melenchuk,"FILEOPEN: Tabulator, set after a number, disappears"
+varga.balazs3,FILEOPEN XLSX Show leader lines property is always on
+vasily.melenchuk,FILEOPEN: DOC: Numbering list is not displayed
+serge.krot,FILEOPEN: DOCX: Incorrect default value in dropdown text fields
+nemeth,FILEOPEN DOCX Table containing nested table disappears
+michael.stahl,Cannot export drawing with rotated text to EPS
+tundeth,Chart horizontal axis title box too long
+nemeth,FILEOPEN DOCX Nested table columns disappear
+michael.stahl,Images disappearing when editing text in libre writer (tracking changes enabled)
+m.weghorn,apk package is broken
+raykowj,Crash:select masterslide on inserted presentation from Writer
+varga.balazs3,"pie chart area gets wrong size, if ""best fit"" puts label outside the sector"
+michael.stahl,Table does paste but not visible
+michael.stahl,Crash in: swlo.dll
+mikekaganski,EDITING Document with chart keeps the needs save state
+tundeth,FILEOPEN XLSX Series level chart data label font size not imported correctly
+varga.balazs3,FILESAVE ODT Chart imported from DOCX cannot be edited if saved as ODT
+serval2412,Not Redact E-mail address by Automatic Redaction
+michael.stahl,Freeze hang/after deleting index SwPosition::dumpAsXml
+mikekaganski,Buildid is neither displayed in nor copyable from the about dialog
+serval2412,Crash: Run Swam Non Linear Solver with blank input
+mikekaganski,FILEOPEN DOCX Glow effects transparency should be prioritized over area transparency
+serval2412,CRASH: Right click on empty Command list (gen)
+mikekaganski,Impress generates a wrong PPTX file after Minimize presentation
+m.weghorn,Crash when opening an ODT document written in Japanese/Chinese (Android viewer)
+michael.stahl,CRASH in a BASIC macro
+mikekaganski,LibreOffice 7.0.0.3: Error in For...Next Statement
+vasily.melenchuk,Tables are stacked onto each other after undo of page wrap change
+mikekaganski,Crash inspecting an array after Redim Statement with option VBASupport 1
+bakos.attilakaroly,FILEOPEN DOCX OLE object background not imported
+bakos.attilakaroly,FILEOPEN DOCX OLE object border settings not imported
+bakos.attilakaroly,Crash saving a document with columns and image anchored to page to DOCX (since 7.1)
+michael.stahl,Image removed after correcting word with right click context menu
+michael.stahl,Crash undo paste & cut (swlo!SwDoc::IsInWriterfilterImport) since 7.0 or 7.1)
+serval2412,Crash:right click to Manage Changes List on side bar
+michael.stahl,can not unprotect bookmarks
+vasily.melenchuk,"FILESAVE DOCX: Restart Numbering (text:start-value=""1"") Not Reserved"
+varga.balazs3,FILESAVE Custom position of data label in pie chart is lost on save - reload
+varga.balazs3,FILEOPEN XLSX Pie chart data labels are too narrow with Outside placement
+serval2412,Crash: Add Protected PDF file on Photo Album
+nemeth,FILEOPEN / FILESAVE DOCX Fields with table formula get extra spaces
+varga.balazs3,FILEOPEN XLSX index instead of content of category value in data label in column chart
+jluth,Fix for bug #99197 breaks openning of an rtl ms-word document
+m.weghorn,"LibreOffice 6.4.3.2 crash ASSERT: ""object == obj"" in qaccessiblecache.cpp, line 122"
+erack,Multiple non-contiguous ranges (range list/concatenation/union) broken on import from Excel and in UI
+michael.stahl,Shapes moves to different position after undo of anchor to page
+varga.balazs3,Crash when tying to move chart data label
+jluth,FILESAVE: Saxparse error on file open (word/footnotes.xml line 2) after save to DOCX & file reload
+michael.stahl,RTF import: comment/annotation anchor is in wrong cell (covered cell even) in table
+michael.stahl,Duplication of content after undo (spurious)
+serval2412,UI Font replacement table loads existing rule incorrectly
+michael.stahl,"[EDITING] ""Replace All"" does not undo properly if the replacement string is empty"
+jluth,FILEOPEN: Incorrect alignment in footer
+bakos.attilakaroly,FILEOPEN: DOCX: incorrect line break
+jluth,FILEOPEN: DOCX: incorrect page break
+bakos.attilakaroly,FILEOPEN: Images have incorrect position
+michael.stahl,FILESAVE: DOC: TextWrap is lost after RT
+varga.balazs3,FILEOPEN DOCX Chart with data labels enabled at datapoint level show percentage values as fraction
+raykowj,Writer search dialog doesn't close after pressing the ESC button
+erack,XLSX: Error 507 when opened with Turkish locale
+varga.balazs3,UI: Data label changes position after closing the Position and Size dialog
+michael.stahl,Image disappears after AutoFormat applies a paragraph border
+heiko.tietze,UI Picker dialog missing 'Contextual single' UI mode
+erack,calc: ui: display of cells formatted as fraction partly broken
+nemeth,Crash on undo with track changes enabled
+erack,Incorrect operation   Sheet -> Named Ranges and Expressions -> Create; with ExcelA1 and ExcelR1C1 syntax
+erack,"Insert -> Named Range or Expression, pastes sheet-local scoped names without sheet prefix"
+markus.mohrhard,HYPERLINK-function with Scriptprotocol don' work
+lionel,LibreOffice Database - LONGVARCHAR anomaly when trying to dismiss a window without first saving
+markus.mohrhard,FILEOPEN: .xlsx Fails to import chart properly - axis title alignment lost
+michael.stahl,Undo does not work when modifying a conditional style including Text Body
+varga.balazs3,Resizing a chart legend makes the chart's body rezise on top of it
+vasily.melenchuk,"Messagebox, initiated by a dialog, appears behind the dialog"
+jluth,vba calls to end(xlup) and find change cell/sheet focus
+michael.stahl,ODF export: Page number 0 (zero) cannot be stored - filed OASIS proposal
+serval2412,Inconsistent error messages when failing to input required fields
+erack,Calc Hyperlink Error when opening MS Excel
+jluth,"Shadow ""clear"" not retained"
+dennisfrancis.in,"EDITING: When selecting cells for a formula, Ctrl is incorrectly behaving like Shift"
+raykowj,Sidebar: New Style created from toolbar in Styles - Page Styles doesn't show it immediately
+mikekaganski,Wrong Windows version reported in the About window in Windows 10
+michael.stahl,Can't link writer section to a master document
+jluth,"""Table → Size → Optimal Column Width"" does not take the optimal width"
+serval2412,Formula editor breaks surrogate pairs
+sbergman,Java not selected automatically with u111/112
+nemeth,beginning of sentence not capitalized on text with typographical apostrophe
+nemeth,EDITING: centered tabulator not effective in justified paragraph with line breaks
+bakos.attilakaroly,"Wrong position of textbox in shape, if shape is contained in a frame"
+dennisfrancis.in,EDITING: Undo of formula changes doesn't show affected cells
+nemeth,"Autocorrect while typing not replacing anymore (manually added to Replace-With) i'll, i've, i'm"
+erack,FORMATTING Comment boxes: dimensions and position lost at copy
+jluth,"Footnote number removed, but grey highlight not removed in repeated table heading (comment 7)"
+jluth,Auto Optimal View gives jarring experience
+michael.stahl,EDITING: The image within the selection doesn't disappear after cutting
+varga.balazs3,FILESAVE: Data table (from copied chart) with empty row exported incorrectly to XLSX (Data Labels missing and X-Values wrong) -see Comment 6
+raykowj,Searching in the customize dialog makes the icons go away
+erack,Formula to Get value of last non-empty cell does not return expected result (lookup function)
+mikekaganski,"Conditional formatting: selecting a cell range for the condition with the mouse gets you every cell individually, but not the range (see comment 10)"
+momonasmon,Repeat Cell Highlighting Not Working Correctly
+m.weghorn,Option “Load Printer Settings with the Document” does not Work Correctly.
+Armin.Le.Grand,Label in report builder doesn't have text
+serval2412,"Wrong character ""2 %n2"" instead of ""2/2"" in Print dialog"
+sbergman,"Automatic update of external links in shared spreadsheet is disabled even though file is in trusted location and setting for opening is ""Always"" (see comment 13)"
+raykowj,"Paragraph child styles not updated in realtime after modifying ""Default style"" in ""Styles"" panel"
+bakos.attilakaroly,Child Textbox separates from shape when align action is used
+Armin.Le.Grand,EDITING: Calc: Error when dragging and dropping OLE objects with 'Insert as Copy'
+raykowj,Pressing F5 after selecting a transition on sidebar doesn't start slideshow
+zolnaitamas2000,FORMATTING: Part of text loose yellow highlight reopening document
+erack,Date formatting issue when viewing Calc created .xlsx spreadsheet on iPad/iPhone
+heiko.tietze,"""%MOD1"" appears in LO Tip of the Day #41"
+erack,Autofilter is disabled prematurely
+Katarina.Behrens,The sidebar deck changes when after switch to print preview and back
+vasily.melenchuk,Table paste from specific .ods to Writer adds two empty rows above so table looks emtpy
+heiko.tietze,Inconsistent labels protect/protected in Insert/Edit section dialogs
+m.weghorn,New Print dialog: the Number of Copies box is too big
+heiko.tietze,New Print dialog: default setting of Preview is Off
+heiko.tietze,LibreOffice Start Center overlay icons aren't correct for Flat ODF documents
+zolnaitamas2000,Insert selected word in the Find bar by Ctrl F
+jluth,"FORMATTING: Allow ""Spacing to contents"" for edges without a line"
+kohei,EDITING: Can't delete unprotected rows in protected document
+mikekaganski,"Implement ""Soft Edges"" effect"
+michael.stahl,Allow user to select multiple headings simultaneously and promote or demote their levels in Navigator window
+serval2412,"big-endian EXIF Tag ""Orientation"" is disregarded by Writer"
+zolnaitamas2000,Implement minimum width & height of StartCenter
+erack,FORMATTING: Disabling grey field shading of hyperlinks in CALC
+heiko.tietze,"Add a ""Release Notes/What's New"" window to be shown upon first run"
+jluth,add unicode conversion shortcut like word (alt+x)
+tundeth,"EDITING: ""Show the legend without overlapping the chart"""
+heiko.tietze,Repurpose Sifr as the new hicontrast theme
+serge.krot,FILESAVE: XLSX export breaks or some sheet names (sheet name length >31 characters)
+s.mehrbrodt,"Scale images proportionally by default (Calc, Impress, Draw)"
+s.mehrbrodt,"Reducing the image size with handles on top/bottom/left side/right side, will result in proportional resizing"
+momonasmon,TOOLBAR: Drop down customization entries for bullet and numbering entries
+heiko.tietze,use Ctrl+TAB to switch between tabs/sheets
+vasily.melenchuk,STATUSBAR: Resized window causes the loss of visibility of zoom functions
+s.mehrbrodt,Add option on insert image dialog to set image's anchor type: ToCell or ToPage
+heiko.tietze,Make 'Search Results' dialog optional from Find & Replace dialog
+erack,XMLpath in FIlterxml does not work with arrayfunction
+jluth,Orphan and widow control should be on by default
+erack,Create absolute sheet references instead of relative when clicking while building formulas
+momonasmon,Allow customization of the Context Menus
+Katarina.Behrens,Make 'Print to File' button always visible in print dialog
+jluth,add unicode conversion shortcut (alt+x) to Math
+serge.krot,FILEOPEN: Custom lists not imported from MSO XLSX files
+erack,i18n: Please add Interlingue [ie]
+s.mehrbrodt,Movies and OLE Objects should be resized proportionately
+momonasmon,Format>Character should have Highlighting tab for shapes in Writer/Calc
+erack,add ability to refer to local names in another worksheet to INDIRECT
+momonasmon,Ability to add style toolbar buttons from the Customize dialog
+momonasmon,"Add feedback behaviour to style applying UNO commands, so that style is marked in menu and toolbar, when in use in text with focus"
+jluth,EDITING: DOCX: w:kern not exported
+varga.balazs3,Long chart title should automatically break
+raykowj,Show currently selected color name in color button tooltip
+serge.krot,Add View-Data Sources on/off text button and Tools-Address Book Source.. button to Mailmerge toolbar
+s.mehrbrodt,EDITING: No Remove Hyperlink option (in context menu) in Impress
+erack,"In the Austrian localization of Calc the German word ""Januar"" isn't recognized as a date."
+erack,Link to External Data doesn't support Text Import from CSV
+heiko.tietze,"Improve wording of ""Skip empty cells"" in Import Text and Text to Columns dialog"
+heiko.tietze,Add color drawing styles in Draw
+jluth,"Draw: Tables have no ""Optimal Width"" Feature"
+heiko.tietze,"Writer: Split Options/Formatting Aids/""Display of"" to groups ""Formatting Marks Toggle"" and ""Field Display"""
+jluth,"""Convert selected text frames into one text paragraph"" function (for PDF import editing)"
+heiko.tietze,"when opening writer doc, only the first input field is requested"
+heiko.tietze,Calc/Draw/Impress/Web: Old Insert Special Symbol
+momonasmon,UI: Dimension dialog for measure line is missing
+m.weghorn,writer enhancement: input field dialog - select content by default
+erack,Add new Venezuela currency bolívar soberano (VES)
+raykowj,Use Enter key to open Special characters dialog when keyboard focus is on Insert Special characters drop down button
+heiko.tietze,"UI: Add ""Calculate All"" to menu ""Data\Calculate"""
+heiko.tietze,in menu: FILE / NEW /  *Master Document* could be separated somehow
+heiko.tietze,"Command to access the ""Get Involved"" page needed"
+raykowj,FontWork should be available in Navigator
+heiko.tietze,Move Display Fields section from Formatting Aids to View
+jluth,Always allow table row to break across pages when longer than a page
+vasily.melenchuk,Add option to save as Word 2007-2019 Template
+heiko.tietze,CUSTOMIZE DIALOG: why is KEY_EQUAL not available for assignment to keyboard shortcuts
+raykowj,UI: Option to open all heading branches at once
+mikekaganski,Add build number for Windows 10 in to About dialog
+heiko.tietze,illegal char in a bookmark name
+heiko.tietze,HYPERLINK DIALOG: Hyperlink Text below URL
+heiko.tietze,"Does the ""Field codes"" option in the Writer options ""View"" dialog have any purpose?"
+tundeth,UI Hide legend entry option for pie chart
+vasily.melenchuk,add support for paragraph mark formatting with character style for DOCX
+varga.balazs3,UI Add Show Leader Lines checkbox
+tundeth,Ability to move chart data labels with keyboard arrows
+raykowj,Highlight the current field on editing (using next/previous)
+vasily.melenchuk,Fileopen: Docx custom numbering triangle symbol incorrectly displayed as a dot
+zolnaitamas2000,Report Builder Character Settings dialog Highlighting tab page doesn't set background
+vasily.melenchuk,FILEOPEN: Numbers appear in numbered list MSO created in attached DOC without visible number format
+michael.stahl,FILESAVE: DOCX: Some page's numbers in TOC are lost after RT
+mikekaganski,EDITING: Rearranging Chapters Using the Navigator does not Work with Documents which are Opened Read-only
+kohei,Calc: FORMATTING Cannot turn spell check off by selecting Language [None]
+nemeth,FILEOPEN: First legacy checkbox in row has too large dimensions on docx import
+mikekaganski,Heavy flicker of tooltip inside of open split button menu
+tundeth,FILESAVE DOCX Hyperlink in docx saved in LO as docx and opened in MSO doesn’t change colors
+erack,EDITING: Regression in handling of the group separator in formula context
+heiko.tietze,"Capitalization of menu entry ""Show Tip-Of-The-Day"""
+raykowj,F6 incorrectly lands on font size control in read-only mode
+heiko.tietze,Calc: Merge cells dialog is difficult to understand for new/infrequent users
+dennisfrancis.in,bad result using mdeterm
+raykowj,Ability to Quickly Get Word Count of Sections Using Navigator
+Katarina.Behrens,Untitled document from template is closed when opening additional existing document
+Katarina.Behrens,CHART: Show minor gridlines with a lighter color
+heiko.tietze,Remove table tooltips
+jluth,Table alignment to center does not recenter upon table resizing
+erack,Add Sept as an abbreviation of September
+erack,Boolean TRUE and FALSE value cells not treated correctly in AutoFill
+jluth,Rendering error of punctuation mark in Word document.
+erack,UI: Name Box does not show a name in sheet scope when selecting a range
+momonasmon,Preview of Bullets is hard to see with a dark theme
+raykowj,Table style is not highlighted in Stylist (F11 Right SideBar)
+heiko.tietze,Start center welcome text should respect window width
+momonasmon,UI: Layout shifting a little when opening the Color dialog in Table properties Background
+s.mehrbrodt,Gray field background colour is not removed immediately after removing a hyperlink
+heiko.tietze,Config Tip-Of-The-Day option is shown displaced
+s.mehrbrodt,Insert images into cells in Calc
